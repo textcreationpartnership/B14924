@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true confession of the faith, and humble acknovvledgement of the alegeance, vvhich vvee hir Maiesties subjects, falsely called Brovvnists, doo hould tovvards God, and yeild to hir Majestie and all other that are ouer vs in the Lord Set dovvn in articles or positions, for the better &amp; more easie vnderstanding of those that shall read yt: and published for the cleering of our selues from those vnchristian slanders of heresie, schisme, pryde, obstinacie, disloyaltie, sedicion, &amp;c. vvhich by our adversaries are in all places given out against vs.</title>
+            <title>True confession of the faith, which wee falsely called Brownists, doo hould</title>
+            <author>Ainsworth, Henry, 1571-1622?</author>
+         </titleStmt>
+         <extent>Approx. 92KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14924</idno><idno type="EEBO-CITATION">99857425</idno>
+  <idno type="VID">22071</idno>
+  <idno type="EEBO-PROQUEST">2266780119</idno>
+  <idno type="STC">STC 18433.7</idno>
+  <idno type="STC">ESTC S122273</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99857425e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14924)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 22071)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 193:4, 194:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true confession of the faith, and humble acknovvledgement of the alegeance, vvhich vvee hir Maiesties subjects, falsely called Brovvnists, doo hould tovvards God, and yeild to hir Majestie and all other that are ouer vs in the Lord Set dovvn in articles or positions, for the better &amp; more easie vnderstanding of those that shall read yt: and published for the cleering of our selues from those vnchristian slanders of heresie, schisme, pryde, obstinacie, disloyaltie, sedicion, &amp;c. vvhich by our adversaries are in all places given out against vs.</title>
+                  <title>True confession of the faith, which wee falsely called Brownists, doo hould</title>
+                  <author>Ainsworth, Henry, 1571-1622?</author>
+                  <author>Johnson, Francis, 1562-1618. aut</author>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>S.n.],</publisher>
+                  <pubPlace>[Amsterdam? :</pubPlace>
+                  <date>M.D.XCVI. [1596]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Henry Ainsworth and Francis Johnson.</note>
+                  <note>Place of publication suggested by STC.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Identified as STC 237 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reels 193 and 194 (same copy filmed twice).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Brownists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:22071:1"/>
+            <pb facs="tcp:22071:1"/>
+            <p>A TRVE CONFESSI<g ref="char:EOLhyphen"/>ON OF THE FAITH, AND HVM<g ref="char:EOLhyphen"/>BLE ACKNOVVLEDGMENT OF THE ALE<g ref="char:EOLhyphen"/>geance, vvhich vvee hir Maiesties Subjects, falsely called Brovvnists, doo hould tovvards God, and yeild to hir Majestie and all other that are ouer vs in the Lord. Set dovvn in Articles or Positions, for the better &amp; more easie vnderstanding of those that shall read yt: And published for the cleering of our selues from those vnchristian slan<g ref="char:EOLhyphen"/>ders of heresie, schisme, pryde, obstinacie, disloyaltie, sedicion, &amp;c. vvhich by our adversaries are in all places given out against vs.</p>
+            <q>wee beleeue therfore haue we spoken. <bibl>
+                  <hi>2</hi> Cor. <hi>4, 13.</hi>
+               </bibl>
+            </q>
+            <q>But, who hath beleeued our report, and vnto whom is the arme of the Lord reuealed? <bibl>Isai. <hi>53, 1.</hi>
+               </bibl>
+            </q>
+            <p>M.D.XCVI.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:22071:2"/>
+            <pb facs="tcp:22071:2"/>
+            <head>To all that desire to feare, to loue, &amp; to obey our Lord Iesus Christ, grace, wisdom and vnderstanding.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hou canst not lightly bee ignorant (gentle Reader) what evills and afflictions / for our profession and saith towards God wee haue sustcined at the hands of our owne Nation: How bytterly wee haue been / an yet are / accused / reproched and persecuted wich such mortall hatred / as yf wee were the most notorious obstinate here<g ref="char:EOLhyphen"/>ticks / and disloyall subiects to our gracious Queen Elizabeth / that are this day to bee found in all the Land. And therfore / besides the dayly ignominie wet susteine at the hands of the Preachers and Prophers of our tyme / who have given theyr tongnes the rems to spearke despightfully of vs / wee haue been further miserably entreated by the Prelats and cheef of the Clergie:<note place="margin">
+                  <hi>They shut <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> out lyv<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> in the Dung<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> they cast a stone vpon vs La<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 3.53.</note> some of vs cast into most vile and noysome prisons and dungcons / laden with yrons / and there / without all piti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / deteyned manie yeeres / no man remembring our af<g ref="char:EOLhyphen"/>faction: vntill our God released some of vs out of theyr cruell bands by death / as the Cities of Londō / Norwich / G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocester / Bury / and manye other places if the land can testifie. Yet heere the malice of Satan stayed not it self / but raysed vp against vs a more greevous persecution / even vnto the violent death of some / and lamentable exile of vs all;<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 159<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>April.</hi> 10.</note> causing heavie decrees to come forth against vs / that wee should forsweare our own Contrey &amp; depart / or els bee slayne therin. This have our adversaries vsed / as their last and best argument against vs / (when all other fayled) followinge the stepps of theyr bloody Prodecessors / the popish Priests and Prelats. Now therfore that the true cause of this their hostilitie &amp; hard vsage of vs may apppecre vnto all men; wee haue at length amyds our manie doubles / through Gods favour / obteyned to publish vnto the view of the world / <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> confession of our fayth &amp; hope in Christ / and loyal harts / to wards our Prince / the rather to stop the mouths of impious and vnreasonable men / who have not ceased some of them / both openly in their Sermons &amp; printed pamphlets / notoriously to accuse and defame vs / as alsoo by all indirect meanes secretly to suggest the malice of their owne evill harts / therby invegling our soveraign Prince and Ru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s against vs:<note n="a" place="margin">
+                  <hi>Gen.</hi> 4. <hi>Num.</hi> 12.</note> that when the true state of the controversie between them and vs shalbe manifested / the christian (or but indifficent) Reader may iuge whether our adversaries haue not followed the way of Cain and a Balaam / to kill and curse vs Gods sernants without cause. For if in this our Confession appeere no matter <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orthie such mortal immitie and persecution / then wee protest (good Reader) that / to our knowledge / they neyther haue cause nor colour of cause so to entreat vs / the nayneand entire difference betwixt their Synagogs and vs / beeing in these Ar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cles fully &amp; wholly comprised.</p>
+            <p>An other motive inducing vs to the publication of this our testimonie / is / the ru<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> estate of our poore Contrymen / who remayne yet fast locked in Egipt / that <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous of servants / in slavish subjection to strange LLs. &amp; lawes / enforced to beare the burdens and intollerable yoke of their popish canons &amp; decrees / beeing subiect every day they rise to<note n="*" place="margin">
+                  <hi>Arch B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Bvs. Suffragan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> / <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> / Deance / Arch. Deac<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> / Com<g ref="char:EOLhyphen"/>missarics / Of<g ref="char:EOLhyphen"/>ficials / Doc<g ref="char:EOLhyphen"/>tors / Proc<g ref="char:EOLhyphen"/>tor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> / Regi<g ref="char:EOLhyphen"/>stres / scribe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> / Pute chants / Summo<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> / Sub<g ref="char:EOLhyphen"/>deancs / chap<g ref="char:EOLhyphen"/>laines / Part <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. daries / Can<g ref="char:EOLhyphen"/>nons / P<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i-Canons / <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>os<g ref="char:EOLhyphen"/>pellers / pist<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>le <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> / Chan<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s / Sub-chanters / Wergiers / <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n-players / Qu<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>sters / Persons / Vi<g ref="char:EOLhyphen"/>cars / Curats / Stidendarics / Dagrant. Preachers / Priests / De <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cons / or half Priests / Church war<g ref="char:EOLhyphen"/>dens / Sidem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Collectors / Clerks / Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tins.</hi>
+               </note> 38. antichristian ecclesiasticall offices / and manie mot Ro<g ref="char:EOLhyphen"/>mish statutes and traditions / almost without number: besides their high transgres<g ref="char:EOLhyphen"/>sion dayly in their vaine will worship of God / by reading over a few prescribed prayers and collects / which they haue translated verbatim out of the Mass-book / and which are yet taynted with man<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> popish hereticall errors and superstions / in stead of true spiratuall invocation vpon the name of the Lord.</p>
+            <pb facs="tcp:22071:3"/>
+            <p>These and manie other greevous enormities are amongst them / not suffred only but with a high hand mainterned / and Gods servants / which by the powre of his word and Spirit witnes against &amp; condemne such abhominations / are both they &amp; their testimonie / reiected / persecuted &amp; plasphemed. What a wofull plight then are such people in / how great is their iniquitie / how fearfull iudgments doo ab<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them? wee have therfore / for their sakes / manifested this our Confession of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vowed obedience vnto that Fayth which was once gyuen vnto the<note n="a" place="margin">
+                  <hi>Iude.</hi> 3.</note> Daincts / wherby they may bee drawne (God shewing mercy vnto them) vnto the same faith and obedience with vs / that they perish not in their sinnes. For how could wee be<g ref="char:EOLhyphen"/>hould so manie soules of our dear Contr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inen to dye before our eyes &amp; wee ho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our peace? And wheras they have been hecrtofore greatly abused by their tyme<g ref="char:EOLhyphen"/>serving Priests / beeing givē to vnderstād that wee were a dangerous people / hol<g ref="char:EOLhyphen"/>ding manie errors / renting our selves from the tue Church / because of some m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>mities in men / some falts in their worship / Ministerie / Church gouvernment / <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. that wee were Donatists / Anabaptists / Brownists / Schismaticks / &amp;c. these few leaves (wee trust) shal now cleere vs of these and such like criminations / and satis<g ref="char:EOLhyphen"/>fie anie godly hart / yea every reasonable man / that will but with an indifferent ear heare our cause. For wee have always protested / and doo by these presents tes<g ref="char:EOLhyphen"/>tifie vn to all mē / that wee neyther our selves doo / neyther accompt it lawfull for o<g ref="char:EOLhyphen"/>thers to seprate frō anie true church of Crist / for infirmities falts or errors what<g ref="char:EOLhyphen"/>soever except their iniquitie bee come to such an heith / that for obstinatie they cease to be a true visible Church / and bee refused and forsaken of God.<note place="margin">
+                  <hi>Conferences betwixt cer<g ref="char:EOLhyphen"/>teine Prea<g ref="char:EOLhyphen"/>chers and pry<g ref="char:EOLhyphen"/>soners Marc.</hi> 1590. <hi>Disco<g ref="char:EOLhyphen"/>vercy of the false Church</hi> 1590. <hi>Refuta<g ref="char:EOLhyphen"/>ton of Mr. Gi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed pryn<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d.</hi> 1591.</note> And for this their renowined Church of England / wee <seg rend="sup">a</seg> have both by word and writing / pro<g ref="char:EOLhyphen"/>ved it vnto them to bee false and counterfeit / deceyving hir children with va<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> titles of the word / Sacraments / Ministerie &amp;c. having indeed none of these in the ordinance and powre of Christ emongst them. They have been shewed / that the people in Their Parish-assemblies / neyther were nor are meet stones for Gods house / meet members for Christs glorious body / vntill<note n="b" place="margin">1 <hi>Peter.</hi> 1 / 23. <hi>Iohn.</hi> 3.3</note> they bee begotten by the seed of his word vnto fayth / and renewed by repentance. Their generall irreligi<g ref="char:EOLhyphen"/>ous profanne<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ignorance / Atheisme and Machevelisine on the one side / &amp; publi<g ref="char:EOLhyphen"/>que Idolitrie / vsuall blasphemie / swearing / lying / kylling / stealing / whoring / an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all maner of imptetie on the other side / <note n="c" place="margin">
+                  <hi>Revel.</hi> 21 / 27 2. <hi>Cor.</hi> 5 / 17. <hi>Ezech.</hi> 44 / 9. <hi>Act.</hi> 8 / 37.</note> vtterly disableth them from beeing Citi<g ref="char:EOLhyphen"/>zens in the new Hierusalem / sonnes of God &amp; heires with Christ and his Saints / vntill they become new creatures. Their slavish bondage vnto the antichristian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tyrannous Prelats / whom they celibrate and honour as their Lords &amp; rever<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n Fathers spirituall / accepting their popish Canons and Iniunctions for laws <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Church / their marcked Priests / Preachers / Parsons / <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ars &amp;c. unlewe of Christs true Pastors and Teachers / running to their Courts and Confiste<g ref="char:EOLhyphen"/>rits at every summons &amp;c. doo manifest<note n="d" place="margin">
+                  <hi>Rom.</hi> 6.16. <hi>Mat.</hi> 6/24. <hi>Reue</hi> 13.16 / <hi>&amp;</hi> 14.9.10. <hi>&amp;<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> whose servants they are / &amp; to whom they yeeld their obedience. Their learned Ministerie even from the highest Arch-pre<g ref="char:EOLhyphen"/>lat to the lowest Vicare &amp; half-Priest th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th been<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>by the powre of our Lord Ie<g ref="char:EOLhyphen"/>sus Christ-cast down into the smoky fornace of that pyt of bottomles diepth<note n="e" place="margin">
+                  <hi>See Revel.</hi> 9.3. <hi>with their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>une annota<g ref="char:EOLhyphen"/>cation / vpon<g ref="char:EOLhyphen"/>that place.</hi> 2. <hi>King.</hi> 16 / 10 11. <hi>&amp;c. Reu.</hi> 13 / 14.</note> from whence they arose / revealed by the light of his word / to bee strange / false / popish &amp; antichristian / the very same / and no other then we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hatched and advanced in their Metropolitane Sinagoge of Rome / from whence they have feched the very pat<g ref="char:EOLhyphen"/>erne and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould of their Church / Ministerie / Service &amp; Regiment / even the very expresse Character and image of that first wild beast of Italy / as all in whom an<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rk of true light is / may easely discerne. With mese and manie other lyke weigh<g ref="char:EOLhyphen"/>tie arguments have wee pleaded against that our whorish mother / hir Priests and Pre<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>te / which as a heavie mylstone presseth hir down to hell:<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pos.</hi> 1 / 2.</note> for the vyalls of Gods wrathfull iudgments are powred vpon them / which maketh them so to
+<pb facs="tcp:22071:3"/>storme rage and curse / gna<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing their tongues for forrow &amp; payne of these wounds / and not yet finding grace to repent of and turne from their sinnes.<note place="margin">
+                  <hi>Men.</hi> 16 / 10. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note>
+               <note n="d" place="margin">
+                  <hi>In Newga<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mr. Crane a man about</hi> 60 <hi>yeers of age Richard Iacson / Tho<g ref="char:EOLhyphen"/>mas Stevens William <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>owton / The mas Drewe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> / Iohn Swal<g ref="char:EOLhyphen"/>ter / Roger Ryppon / <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>bert <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wobur<g ref="char:EOLhyphen"/>ne / Scipio Bellot / Ro<g ref="char:EOLhyphen"/>bert Bowle<g ref="char:EOLhyphen"/>Iohn Barnes beeingsic / vnto death / was caryed fort<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> depatred <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>f. shortly <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>after. Mothor Me<g ref="char:EOLhyphen"/>net of</hi> 60. <hi>yeers. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Roc of</hi> 60. <hi>yeers Mothes Tailont / Iu<g ref="char:EOLhyphen"/>deth My<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>er. Margaret Farret-beeing <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ch vnto death was ca<g ref="char:EOLhyphen"/>ried forth / and ended hir lyfs <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> a day or two after. Iohn Purdy in B<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l. Mr. Denford<g ref="char:EOLhyphen"/>in the Gate<g ref="char:EOLhyphen"/>house about</hi> 60. <hi>yeers of age. Father Debnham in the white-ly<g ref="char:EOLhyphen"/>on about</hi> 70. <hi>yeers / George Bryty in Counter woodstreet. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enry Tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>sō in the <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Iohn Chan<g ref="char:EOLhyphen"/>dice in the Count. Pou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>y / beeing sick vnto death was carryed forth &amp; dyed within few dayes. Waltar Lanc in the Fleet. Thomas <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>bewet in Countee Woodstreet.</hi>
+               </note> For when wee have proclamed this our testimonie against them / how have they behaved them<g ref="char:EOLhyphen"/>selves / but as savage beasts renting and tearing vs with their teeth / never daring to come vnto the triall of the word of God / eyther by free wryting or conference / but greedily hunting after Christs poore lambes / and so manie as they could get into their pawes / misvsing their bodyes with all exqvisite tyrannie in long and la<g ref="char:EOLhyphen"/>mentable emprisonment / bedsies despight and reproches without mesure. So that through their barbarous crueltie<note n="*" place="margin">
+                  <hi>Och that they were wise / then would they vnderstend this<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ey would consider their later end. Deut.</hi> 32.9.</note> 24. soules have penshed in their prisons / with in the Cittie of London only / (besides other places of the Land) &amp; that of late yeeres. Manie also have they / by their immamtie / caused to blaspheme and forsake the hath of our glorious Lord Iesus Christ / and many mo they terrifie and keep from the same. For all this / yet were not these savage men satisfied / though blood in abonndance ran out of their wyde mouths / but they procured certeine of vs (after name yeeres emprisonment) to be indighted / arrayned / condemned and hanged as scious / (how vniustly / thou Lord iust and true knowest) Henry Barrow / Iohn Greenwood (and Iohn Penry) whose perticular examinations / araignments and maner of execution / with the circumstances about them / if thou didst truly vnder<g ref="char:EOLhyphen"/>stand (gentle Reader) it would make thy hart to bleed / considering their vnchristi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>and vnnaturall vsage. About the same tyme they executed also one william De<g ref="char:EOLhyphen"/>us / at Thetford in Northfolke / and long before they kylled two men / at Bury in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uffol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / Coppyn and Elias / for the like testimonie. Others they deteyne in their <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ysons to this day / who looke for the like measure at their mercelesse hands / yf God in mercye release them not before. Our God (wee trust) will one day rayse by an other Iohn For / to gather and compile the Actes and Monuments of his later Martyrs / for the vew of posteritie / tho yet they seem to bee buryed in obli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion / and sleep in the dust. Then will this last infernall Cergie alsoo appeere in their proper colours / and befound nothing inferiour to their bloody predecessours <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poysoned mal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce and and tyrannie but rather even to exceed them / in regard of the tyme. Alas for our poore Contreye / that it should bee so againe defiled with the blood of the scients / which cryeth lowde from vnder the Altar / and speaketh no leter things for it / then did the blood of<note n="a" place="margin">
+                  <hi>Gen.</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>10.</note> Habel. Needs must the righteons Lord referue a scarfull vengeance for such a Land / and make it an example to all Natons / yf speedely they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urge not thewselnes by notable repentance. But oh how far are they from this / which harden their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arts against vs / as did the Egiptians / and cease not to add vnto their formor iniquities / still pursuing vs with their accusio<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed hatred / who seeke the welfare of their soules / &amp; Offer them the things which concerne t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir peace / which they refuse. Thy peace o England hat hoorought thy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oe / and thy long prosperitie / thy ruin / thou hast been fat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thou hast waxed grosse / thy hart is covered / thow hast forsaken the God that made thee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and despised the rock of thy falvation / thy sinnes have reached vp to Heaven / &amp; God hath remem<g ref="char:EOLhyphen"/>bred thine iniquities to gyue vnto thee according to thy worcks. Behold / the tempest of the Lord is gon forth with wrath / the wirle winde that hangeth over <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll light vpon the heads of the wicked / the indignation of the Lords wrath shall not returne vntill hee hane doon / and vntil hee hane performed the intents of his hart: In the later dayes thow shait vnderstand it. <seg rend="sup">•</seg> Our God shew mercy to them that are his in thee / and hastely draw them out of the fire / that they perish not <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hy sinnes. And most af all wee are sorie for our dread sovereigne Queen / whom <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ee haue alwayed loved / reverenced and obeyed in the Lord that shee should so bee <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>awn by the subtle suggestion of the Prelats to smyte hir faithfullest subieers ha<g ref="char:EOLhyphen"/>ving
+<pb facs="tcp:22071:4"/>hir finger so deep in the blood of Gods children / wherby shee hath not only be<g ref="char:EOLhyphen"/>filed hir precious soule in the eyes of hir God / but also brought an evill name vpon h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r meck and peaceable Government heere on Earth / in all Nations rown about hir who doo with greef behold that Land to persecute and waste true Chris<g ref="char:EOLhyphen"/>tians now which was erewhiles an harbour and refuge for Christians perse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ted in other places. But as wee are verily perswaded that hir Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. clemenc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath been much abused by the wretched vnconcionable false reports and instiga<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ons of the Priests / so will wee not cease (though wee bee exiled hir Dommions) with fervent harts to desier hir Nighnesse prosperitie &amp; pray that hir sinnes ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bee forgiven hir / lamenting that Gods benefits / and great d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>yverances / should <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> foone of hir bee for gotten / &amp; so ill requited / by this hard vsage of his poore servants for his fave. And if shee proceed in this course / alas how shall shee ever bee able t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> behold the face of hir God with comfort? wherfore our soules shall weep in secret for hir / and wee will not ce<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se to pray the Lord to shew hir mercy / and open hir eyes before shee dye. And lykewuse for those honorable Peeres hir grave Councellors / who also have consented to this our hard measure / although our innocencie hath been sufficiētly manifested vnto the cōsciēces of some of the cheefest of thē / our hum<g ref="char:EOLhyphen"/>ble request is / that they in the scare of God may weigh their proceedings against vs / &amp; remēber their accompt that they shall shortly make vnto the Iudge of hea<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and earth / where Christ will reckon vnto them al the tribulations of his poore de<g ref="char:EOLhyphen"/>spised members on earth / as if they had been inflicted vpon his own glorious per<g ref="char:EOLhyphen"/>son / and will render reward accordingly.<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at.</hi> 10.40. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <hi>&amp;</hi> 25.44.45.</note> The Lord giue them true wisdome / th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they may learne / at last / to kisse the Soone before hee bee angry / and they prrish in the way.<note place="margin">
+                  <hi>Psal.</hi> 2.10.</note> As for the Priests and Preachers of the land / they / of all other me<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / haue bewrayed their notable hypocrisie / that standing erewhile against the En<g ref="char:EOLhyphen"/>glish Romish hierachie / and their popish abhominations / haue now so redely sub<g ref="char:EOLhyphen"/>mytted themselves to the Beast and are not only content to yeeld their canonicall obedience vnto him / and receiue his mark but in most hostile maner oppose and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t themselues against vs / not ceasing to add vnto our aflictions / scorning and reviling vs / and alienating the mynds of manie <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pic harted people / whoe are (wee doubt not) iuchnable enough vnto the truth / were it not that these their lying Proph<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s did strengthen their hands / that they may not returne from their wicked wayes / by promising them lyfe and peace / where no peace to. These haue long busic<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> themselues in seeking out new shifts and cavills to turne away the truth / which presseth them so sore and hauc at last been dryven to palpable &amp; grosse absurditie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> / seeking to dawbe vp that ruinous antichristian muddy Wall / which themselves d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> once craftily vnder mine. And heerin wee report vs to the learned discourses of Do. Robert Some / and Mr. Gistard who haue so refereed their wrytings with reproches / slanderous vntruths / and false collections on the one side / and manifest digressions / shiftings &amp; turnings from the state of the question in hand / on the o<g ref="char:EOLhyphen"/>ther side / as wee think the lyke presidents can hardly be shewed in anie wrytings of controversie in these t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es and specially Mr. Gistards last answere / which (<gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> secmeth) hee did in haste: wherin <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> boyes play / in skipping over many whol leaves of <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s abversaries booke / (leaving thē both vnanswered &amp; vntouched) hee hath so wisely caryed hunself in those tuings winch hee professeth to answere as a man afrayd once to come neers the battel and mayne coutroversie in hand / run<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing our into vaine and frutlesse excursories / never approving by the word of God t<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> places and offices of his Lords the Prelats / with their retinue / Courts / Ci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp;c. neither the publick <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ministerie or people of this their Church of England. Fro bee knew well <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> adve<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aries were fast locked &amp; wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hed in pry<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:22071:4"/>from wryting anie more / and their books intercepted / so that few men could ame to the brew of them: Hee might therfore deale as hee lysted himself for as own best ad vantage / and be are the people in hand that hee had confuted his Brownists and Donatists / for the prynt was as free for him / as the close pryson or them. But God (wee trust) will give meanes one day / that some things / <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ch as yet are hid / shall come to light. In the meane tyme / thow for thy satis<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ing (Christian Reader) examin the mans wrytings / and see how hee hath an<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ered vnto these criminations / or purged his Church of them. Look what scrip<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es hee hath brought for defence of his spirituall Lords / their places and proce<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>gs / their Courts / Cannons / Dignities / &amp;c. what warrant in Christs Testa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ent hee hath found for his service-booke and all the abhominable rites therin<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> his Angelies / Saincts and Lady days / popish Fastes / Lent / Embers and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ves: How hee hath approved their English missall Prayers / Letanie / Collects <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d Trentalls / their mar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng / burying / churching of women / wretched abuse of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th Sacraments / their Romish Goss<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pps / hollowed Font / Crosse / inchanted Collects / their processions / bishopping of children / and a thowsand such like trnm<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es / which were all blamed vnto him. Yea / come vnto their own Ministeric / &amp; <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hold from whence hee hath fetched the genealogie of those Anakims and horned <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ds of the Beaste. Arch bbs. Lord bbs. Deanes / Arch-Deacons / Chancel<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s / &amp;c. or of their Mr. Parson / Vicar / Curat / and the rest of that rabit: How <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e opproveth their offices / ellections / callings / entrāce / ad<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ations / Bishop<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ks / Dcanries / Prebends benefices / &amp;c. by the ordinance of our Lord Iesus in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> newe Testament<note n="f" place="margin">
+                  <hi>Mat.</hi> 18.<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb.</hi> 1.2. <hi>Eph.</hi> 4. <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 13. <hi>Gal.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 10.</note> left vnto his Church to the worlds end.</p>
+            <p>These are some of the innumerable abhominations / wherwith wee charged <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rr Church / which they must eyther <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ustifie by Gods word / or cleere their Church of them. Now hee that findeth not these things approved in his wryings / <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ay easely perceiue how hee hath uever medled with the mayne coutroversie be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>een vs. Wherfore eyther let him dischardge <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns Church of these accusations / <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ne must wee and all Gods children still by the powre of the word of God con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ne them / and send home againe these Rounsh wares into the Land of Shinar <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> whence they came / and the Lord that condemneth them is a strong God.<note place="margin">
+                  <hi>Zach.</hi> 5.1<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note>
+            </p>
+            <p>On the other side wee desire thē that they wold shew vs by the Scriptures <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r errors wherwith they chardge vs / &amp; for which they thus hate vs / what they <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oue in our Doctrine or practise. As for our selves / wee protest with simple <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ts in the presence of God / and his holy Angelles / vnto al men / that wee doo <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> wittingly &amp; willingly mātame anie one error against the word of truth (though <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ee doubt not but as all other men wee are liable to error / which our God wee <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>st will in mercy forgiue vnto vs / ) but hold the grounds of Christian Religion <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th all Gods antient Churches in <hi>Iudea, Rome, Corinth, Ephesus, Gala<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a, Pontus, Cappadocia, Asia</hi> and <hi>Bythinia,</hi> and with all faythfull people at his day in <hi>Germanie, France, Scotland,</hi> the <hi>Lovv-Contries, Bohemia,</hi>
+               <note place="margin">
+                  <hi>Watmande of Confect.</hi>
+               </note>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> other Christian Churches rownd about vs / whose con<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>essions published wee <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> heere to wytnes the sinceritie of our aith / and our agreement and vnitie with <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em in the points of greatest moment and controversie between vs and our adver<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ies. And wheras our Preachers were wont to tell vs / that their Church <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>deth the foundation and substantiall grounds of Rilligion / Faith in God and Iustification by Christ alone / &amp;c. and therfore / norwithstanding their wants and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ruptions / they had the essence / lyfe and beeing of a true people of God: wet <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ust now they will let vs that make the lyke plea / find the lyke favour / &amp; accompt <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as a true Cougregation of Christ / and blaspheme vs no longer by the names
+<pb facs="tcp:22071:5"/>of Broswnists / Donalists / Anabaptists / Schismaticks &amp;c. for will they slay th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> that Christ gyveth lyfe vnto? shall profession of faith saue them / and shall yt<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> vs lykewise / that make the same profession? Or yf theytake exception at our<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> let them shew what one truth they hold / wher in wee agree not with thē / or wh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> good thu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g they have in practice / that wee do not the sainew. et worship the tru<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> God in spirit and truth / having his word truly taught / his Sacraments right administred (at such tyme as our God douchafeth vs the meanes for administra<g ref="char:EOLhyphen"/>tion of thē at all:)<note place="margin">
+                  <hi>Tho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Lord preparest a ta<g ref="char:EOLhyphen"/>ble before vs in sight of one adversaries Psal.</hi> 23.5.</note> That ministerie of Pastors, Teachers / Elders / Deacons / <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which they somtymes stood for / wee (through Gods great mercy) obteyned th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> before their faces / which they yet never did. That government of Christ by<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> own lawes / ordinances / &amp; holy cenfures (which they call Discipline) wee fa<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>fully obey and execute:<note n="g" place="margin">
+                  <hi>Bee.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.41.</note> receiving into our societie all that with faith and re<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tance come vnto vs willingly:<note n="h" place="margin">
+                  <hi>Mat.</hi> 18.8.17 / <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Cor.</hi> 5.4.5 / <hi>Tit</hi> 3.10. <hi>Rom.</hi> 16.17.</note> casting out againe / and removing by the powre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> our Lord Iesus Christ all notorious &amp; obstinate sinners / hereticks / schismatick<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or wicked lyvers whosoever / without respect of persons. Only wee reiect the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> bominable Romish reliques which they yet retein and mainteine / to the high<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>honour of God. And for the sinnes wherwith wee charge them / they are so app<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rant / as even our forest addersarie somtymes confessed and complayned of them<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that in great measure openly / muchmore secretly emongst themselves / as is<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> known. But let vs heare themselves speak / as they have published in prynt to the view of the world. Of their people / the members of their Church they gyve this commendation.</p>
+            <p>
+               <note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Dialogue of the Ocife of their Chu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch Page.</hi> 99.</note>
+               <hi>The greaeest multitude, by many partes doo not vnderstand the Lords prayer, the ten Commandements, or the articles of the faith,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Doctrine and vse of the Sacraments, in anie competent measu<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> There bee thou vvsands, which bee men &amp; vvoemen grovvne, vvhich if a man aske them bow they shalbee saued, they cannot tell.</hi>
+               <note place="margin">
+                  <hi>Are not these meet stones now for gods bous?</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1. <hi>Pet.</hi> 2.5.9. <hi>Heb.</hi> 8.11.</note>
+               <hi>As for vvic<g ref="char:EOLhyphen"/>kednes in pryde, euvie, hatred, and all finnes that can bee named al<g ref="char:EOLhyphen"/>most, yt doth overflow: &amp; yet you are not ashamed to say, are they not Christians? Concerning their own ministerie and government, they haue lykewise</hi>
+               <note n="h" place="margin">
+                  <hi>Edmonition to the Part. in the Preface / defended by T. C.</hi>
+               </note>
+               <hi>complayned hovv they lack both a right Ministerie of God, and a right government of his Church, according to the Schrip<g ref="char:EOLhyphen"/>tures.</hi> More pertienlarly<note n="i" place="margin">
+                  <hi>Table of Re<g ref="char:EOLhyphen"/>eicles pro<g ref="char:EOLhyphen"/>pounded by the Divinirie Readee in Cambridg. T. C.</hi>
+               </note> That that prophane iurisdi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of Lord<g ref="char:EOLhyphen"/>ly Lord Arch. <hi>bb</hi>
+               <seg rend="sup">s</seg>. <hi>Bb</hi>
+               <seg rend="sup">s</seg>. <hi>Arch-Deacous, Chancellors Officials, &amp;c. a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> contrary to Gods government, and vvholly vnderpropt by the Cano<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and popish law, and withall ioyned with hypocrisie, vaineglorie, lordly<g ref="char:EOLhyphen"/>nes &amp; tyrannie, euē for these respects, if ther were no more, are to bee v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>terly rooted out of the Church, except possible wee meane by reconci<g ref="char:EOLhyphen"/>liation to make Christ and antichrist friends. Item</hi>
+               <note n="m" place="margin">In the same Table.</note>
+               <hi>that that ougly &amp; ylfauored hyerarchie or Church-princelynes, which instituted at the fi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> by Antichrists devise, did afterward vilely serue the Pope of Rome to<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> complishe the myst<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rie of iniquitie, and to distroy the Church<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Christ, and doth yet still at this day serue him, must bee so abolished that no remnants, ne yet anie shew therofremayne, yf so bee wee wil<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <pb facs="tcp:22071:5"/>
+                  <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>aue Christ to reigne ouer <hi>vs.</hi>
+               </hi> Item<note n="u" place="margin">Martles Marprelat.</note> that the Lord Gouerners of their Church bee <hi>Peti-Popes, &amp; Peti-Antichrists, and Bishops of the Deuill.</hi> These Testimonies have wee from their own wrytings / &amp; manie such lyke. For these impieties haue wee seperated our selues from those tages of vncleane byrds / <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>llowing the<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Sen</hi> 19 / 14 <hi>Isa.</hi> 52 / 11. <hi>Iir.</hi> 51 / 9. <hi>Act.</hi> 2 / 40. 2. <hi>Cor.</hi> 6 / 17. <hi>Rev.</hi> 18 / 4.</note> counsell of the Holy-Gost / lest-wee should communicate with their sinnes / and bee partakers of their plagues. With what equitie now can these Priests so blaspheme and persecute vs for reiecting the heavie yoke of their tyra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>us Prelats / whom they themselues call antichristian &amp; Bishops of the Devill: <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r forsaking their Priesthood / which they haue complayned is not the right Mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erie. with what conscience could Mayster Giffard (of all other men)<note n="p" place="margin">
+                  <hi>Answere to the Bro<g ref="char:EOLhyphen"/>wni<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s / pag.</hi> 4. <hi>&amp;</hi> 50.</note> so be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mently charge vs with intollerable pryde / presumption / and intrusion into Gods <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dgment seate / to judg and condemne wholl assembles which professe the Faith of Christ sincerely &amp;c. in most sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age and desperate maner to rend and teare vp the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eake plants &amp;c. The Lord rebuke Sathan / and iudge betwixt vs. Our enimies <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>fest arguments against vs hitherto / haue been reproch and cursed speaking / with violence and opression. But let them know and vnderstand / that for all these <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ings God wil bring them vnto iudgment / whē they shall receiue such recompence of their error and wickednes as is meet.</p>
+            <p>The last and great scandall which offendeth manie and turneth them out of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay / is the seed of discord which Satan hath sought to sowe emongst our selues / <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tting variance emong brethren / prevayling mightely in the children of perdition / whom hee hath eyther turned back into apostacie / or dryven into heresie or schisme. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eerby hee hath caused the truth of God to bee much evill spoken of / and to suffer <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eat reproch at our aduersaries hands / whoe haue long wayled for our halting. Such things (good Reader) are neyther new nor stronge vnto vs / (though much is bee laiuented / ) yt beeing the lot of Christs Church to haue such trobles within yt self / and as incident to the same as is the crosse of outward tribulation.<note place="margin">
+                  <hi>Dan.</hi> 11 / 34</note> Ney<g ref="char:EOLhyphen"/>ther can anie that knoweth the state of Gods people / or the word of God aright / <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ke for other things in this world / where wee are but strangers &amp; pylgrims / war<g ref="char:EOLhyphen"/>ting against manic and nughtie adversaries / even the Prince of darknes / with his <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of spirituall wickednesses. Wee are taught of God<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 <hi>Cor.</hi> 11 / <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> that ther must bee discen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> &amp; heresies emōgst our selves / that they which are approbed may bee knowne / <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>that greevous woldes should enter in emongst vs / and of our selves men arise / speaking perverse things to draw away disciples after them.<note n="b" place="margin">
+                  <hi>Act.</hi> 20 / 29.30.</note> By such sukorned <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>sts of satan doth our<note n="c" place="margin">
+                  <hi>Deut.</hi> 13.3.</note> Lord sift &amp; trye vs / whither wee love him with our wholl <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rts or no. wherfore though<note n="d" place="margin">
+                  <hi>Ioh.</hi> 6 / 66.</note> never so many forsake vs / &amp; oure<note n="e" place="margin">
+                  <hi>Lam.</hi> 1 / 7.</note> own frends dole <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>faithfully with vs / <note n="f" place="margin">
+                  <hi>Psal.</hi> 73 / 1.</note> yet wee know assuredly it shalbe well with I sraell / even to the pure in hart. when wee call to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ynde / <note n="g" place="margin">
+                  <hi>Gen.</hi> 4.</note> the murder of Cain.<note n="h" place="margin">
+                  <hi>Gen.</hi> 9</note> the deriding of Cham / <note n="i" place="margin">
+                  <hi>Gen.</hi> 21.</note> the flowting of I sinacl / <note n="k" place="margin">
+                  <hi>Gen.</hi> 27.</note> the hatred of Esau / <note n="l" place="margin">
+                  <hi>Gen</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> the envie of the Patri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rks / <note n="m" place="margin">
+                  <hi>Num.</hi> 16.</note> the rebellien of Corah / <note n="n" place="margin">2. <hi>Sam.</hi> 15.</note> the conspiracie of Absalon / <note n="o" place="margin">
+                  <hi>Mat.</hi> 16.</note> the treason of Iu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>es / <note n="p" place="margin">
+                  <hi>Act.</hi> 5.</note> the hypocrisie of Ananias and Saphira / <note n="q" place="margin">2. <hi>Tim.</hi> 42.</note> the Apostacie of Demas / <note n="t" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>vel.</hi> 2.</note> the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eresie of Nicholas / and manie suchlike mischevous practises in old tyme with in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e housholds of the Saincts / and Churches of God / wee mervell not though in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ese last &amp; evill dayes some childrē of Belial / that were of old ordeyned vnto this <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ndernmation / rise vp in the Church and work the vnrest and sorrow of the same. The tyme is come that iudgment must begin at the house of God / the Lord will <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>oue vs to the vtmost / and suffer Sathan to wynnow vs as wheat / but Peters faith is prayed for that it fayle not / and hee that shall contynue to the end / hee shal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> saued. This is our comfort that God will heerby purge his vine and disclofe
+<pb facs="tcp:22071:6"/>the disguysed hypocrits which come vnto vs in sheeps garments / but his own por<g ref="char:EOLhyphen"/>tion hee will brin I thoro<note place="margin">v. <hi>Thes.</hi> 2.10.11.12.</note> the fire / and fine them as the Silver is fined / and will trye them as the Gold is tryed / to the prase &amp; glory of his own great name. These things are stumbling blocks vnto the blynde and hard harted worldlings / who haue no loue vnto the truth / nor wilbee brought vnto the obedience of the same. It is <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with God to let them bee octended by such things. But hee knoweth to dely<g ref="char:EOLhyphen"/>uer the godly out of temptation.<note place="margin">2. <hi>Pet.</hi> 2.9.</note> Let him therfore that readeth consider / &amp; the Lord gyue him vnderstanding in all. Weigh all things vprightly in the ballance of the Sanctuarie / and iudg righteous iudgment. Bee not offended at the simplicite of the Gospell / neyther hold the Faith of our glorious Lord Iesus Christ in respect of meas persons. Gods cause shall stand when al that handle yt amisse shall fall before <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.<note place="margin">
+                  <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 11.5.6.</note> Wee offer heere our Fayth to the view and tryall of all men. Tryall things and keep that <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ch is good: and yf thou shalt reape anie frute by these our labors (gentel Reader) gyue God the glory.</p>
+            <epigraph>
+               <q>Though Babael should mount vp to heauen, and thou she should defend hir strength on high, Yet from me shall hir destroyers come saith the Lord <bibl>Ierem. <hi>51.53.</hi>
+                  </bibl>
+               </q>
+               <q>Saue vs o Lord our God and gather vs from among the nations, for to celebrate thy holy name, For to glory in thy prayse.
+<bibl>Psal. <hi>106.47.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:22071:6"/>
+            <head>A TRVE CONFESSI<g ref="char:EOLhyphen"/>ON OF THE FAITH, AND HVM<g ref="char:EOLhyphen"/>BLE ACKNOVVLEDGMENT OF THE ALE<g ref="char:EOLhyphen"/>geance, vvhich vvee hir Maiesties Subjects, falsely called Brovvniste, doo hould tovvards God, and yeild to hir Majestie and all other that are ouer vs in the Lord. Set dovvn in Articles or Positions, for the better &amp; more easie vnderstanding of those that shall read yt: And published for the cleering of our selues from those vnchristian slan<g ref="char:EOLhyphen"/>ders of heresie, schisme, pryde, obstinacie, disloyaltie, sedicion, &amp;c. vvhich by our adversaries are in all places given out against vs.</head>
+            <head type="sub">Wee beleeue with our hearts &amp; confes with our mouths.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>1</label>
+               <seg rend="decorInit">T</seg>Hat ther is but<note n="a" place="margin">
+                  <hi>Deut.</hi> 6 / 4. <hi>Bos.</hi> 13 / 4. <hi>Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k.</hi> 12 / 29 32. <hi>Eph.</hi> 4 / 4.5.6 <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Cor.</hi> 12 / 13.</note> one God, one Christ, one Spirit, one Church, one truth, one Faith,<note n="b" place="margin">
+                  <hi>Rom.</hi> 16 / 16. 1. <hi>cor.</hi> 4 / 17. <hi>&amp;</hi> 16.<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Gal.</hi> 1 / 8 9.</note> one Rule of obedien<g ref="char:EOLhyphen"/>ce to all Christians, in all places.</p>
+            <p n="2">2 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>2</label> That God is a<note n="c" place="margin">
+                  <hi>Iohn.</hi> 4 / 24.</note> Spirit, whose<note n="d" place="margin">
+                  <hi>Exod.</hi> 3 / 14. <hi>Es<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 43 / 10 / 11.</note> beeing is of him<g ref="char:EOLhyphen"/>self, and<note n="e" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>om.</hi> 11.36. <hi>Act</hi> 17 / 28. <hi>Gen.</hi> 1.</note> giveth beeing moving, and preservation to all other things beeing himself<note n="f" place="margin">1. <hi>tim.</hi> 1 / 17. <hi>Reu.</hi> 4 / 8. <hi>Es.</hi> 6 3. <hi>and</hi> 66.1.2. <hi>Psal.</hi> 145 / 3.8.9.17. <hi>&amp;</hi> 147.5. <hi>Rom.</hi> 1 / 20.</note> eternall, most holy, every way in<g ref="char:EOLhyphen"/>finit, in greatnes, vvildome, povvre, goodnes, justice, truth, &amp;c. And that in this Godhead there bee three<note n="g" place="margin">1. <hi>Ioh.</hi> 5 / 7 <hi>Mat</hi> 18 / 19. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ag.</hi> 2 / 5.6 <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb.</hi> 9 / 14.</note> distinct persons<note n="h" place="margin">
+                  <hi>Pro.</hi> 8 / 22. <hi>Ioh.</hi> 1 / 1 <hi>Heb.</hi> 9 / 14.</note> coeternall, coequall, &amp;<note n="k" place="margin">
+                  <hi>Ioh.</hi> 10 / 30.38. 1 <hi>Corint.</hi> 2 / 11.12. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb.</hi> 1 / 3.</note> coessentiall, beeing every one of thē one &amp; the same God, &amp; therfore not divided but distinguished one frō another by their severall &amp; peculiar propertie: The<note n="l" place="margin">
+                  <hi>Iob.</hi> 5 / 26. 1. <hi>C<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 8 / 6.</note> Father of none, the Sonne<note n="m" place="margin">
+                  <hi>Ioh.</hi> 1 / 14.1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 3.16. <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ca.</hi> 5 / <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <hi>Psal.</hi> 2 / <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> begotten of the Father from everlasting, the holy<note n="n" place="margin">
+                  <hi>Ioh.</hi> 14 / 26. <hi>&amp; <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 16. <hi>Gal.</hi> 4 / 6.</note> Gost proce<g ref="char:EOLhyphen"/>ding from the Father and the Sonne before all beginnings.</p>
+            <p n="3">3 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>3</label> That God<note n="o" place="margin">
+                  <hi>Esa.</hi> 46 / 10. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 11 / 34.35.36. <hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t.</hi> 15 / 18. <hi>&amp;</hi> 2 / 23. <hi>Gen.</hi> 45 / .6.7.8. <hi>Mat</hi> 10 / 10.30. <hi>and</hi> 20 15. <hi>Eph.</hi> 1 / 11.</note> hath decreed in himself from everlasting touching all things, and the very least circumstances of every thing, effectually to vvork and dispose thē according to the counsell of his ovvn vvill, to the prayse and glorie of his great name. And touching his chee<g ref="char:EOLhyphen"/>fest Creatures that God hath in<note n="p" place="margin">
+                  <hi>Eph.</hi> 1 / 3 4.11.</note> Christ<note n="q" place="margin">
+                  <hi>ibid &amp; wat.</hi>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> / 34</note> before the foundation of the world,<note n="r" place="margin">
+                  <hi>Eph.</hi> 1 / 5. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 9 / 11.12.13. <hi>Mal.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 2. 2 / <hi>Tim.</hi> 1 / 9.</note> according to the good pleasure of his vvill,<note n="s" place="margin">
+                  <hi>Act.</hi> 13 / 48. <hi>Eph</hi> 1 / 4.5. 1. <hi>Tim.</hi> 5 / 21. <hi>Mat.</hi> 25 / 31.34.</note> ordeyned som men and Angells, to eternall lyfe to bee<note n="r" place="margin">
+                  <hi>Ephes.</hi> 1 / 5.7.10 <hi>Col.</hi> 1 / 14.17.18.19. <hi>&amp;</hi> 2.10. <hi>Rom.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.19.30. <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> 19.10</note> accomplished through Iesus Christ, to the<note n="v" place="margin">
+                  <hi>eph.</hi> 1 / 6. <hi>to</hi> 9 / <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> prayse of the glorie of his grace. And on tho<g ref="char:EOLhyphen"/>ther hand hath likevvise<note n="w" place="margin">
+                  <hi>Iud. vet.</hi> 4.</note> before of old according<note n="x" place="margin">
+                  <hi>R<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m.</hi> 9 / 11.12.13.17.18. <hi>with. <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>al.</hi> 1 / 3. <hi>Exod.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.16.</note> to his iust pur<g ref="char:EOLhyphen"/>pose<note n="y" place="margin">
+                  <hi>Iob. <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee.</hi> 4 / <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 9 / 22. <hi>mat.</hi> 25 / 41 92. <hi>Pet.</hi> 2 / 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2. <hi>Cor.</hi> 4 / 3.4. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>pet.</hi> 2 / 8. <hi>iod.</hi> 3.10</note> ordeined other both Angels and men toe, ternall condemna<g ref="char:EOLhyphen"/>tion,
+<pb facs="tcp:22071:7"/>to bee; accomplished through their own corruption to the<note n="b" place="margin">
+                  <hi>Pro.</hi> 16 / 4. <hi>rom</hi> 2 / 5. <hi>and</hi> 9.22.</note> prayse of his iustice.</p>
+            <p n="4">4 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>4</label> That in the<note n="c" place="margin">
+                  <hi>Gen.</hi> 1. <hi>Col.</hi> 1 / 16 <hi>Esa.</hi> 35 / 11. <hi>Heb.</hi> 11 / 3. <hi>Revel.</hi> 4 / 11.</note> beginning God made all things of nothing very good: and<note n="d" place="margin">
+                  <hi>Gen.</hi> 1 / 26.27. <hi>Eph.</hi> 4 / 24. <hi>accles.</hi> 7 / 31.</note> created man after his own image and lykenes in righ<g ref="char:EOLhyphen"/>teousnes and holynes of truth. That<note n="e" place="margin">
+                  <hi>Gen.</hi> 3 / 1.4.5. 1 <hi>Cor.</hi> 11 / 3. <hi>Ioh.</hi> 8 / 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> streight ways after by the sub<g ref="char:EOLhyphen"/>tiltie of the Serpent which Sathan vsed as his instrument<note n="f" place="margin">2. <hi>Pet.</hi> 2 / 4. <hi>Ioh</hi> 8 / 44. <hi>Iud.</hi> 6.</note> himself with his Angells having sinned before and not kept their first estate, but left their own babitation; first<note n="g" place="margin">
+                  <hi>Ge<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 3 / 1.2.3.6 1. <hi>Tim.</hi> 2 / 14. <hi>Eccles.</hi> 7 / <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>Gal.</hi> 3 / 22.</note> Eva, then Adam by hir meanes, did wittingly &amp; willingly fall into disobedience &amp; transgression of the commadement of God. For <hi>the which death</hi>
+               <note n="h" place="margin">
+                  <hi>Rom.</hi> 5 / 12.18.19. <hi>and</hi> 6.23. <hi>with Gen.</hi> 2 / 17.</note> reigneth over all: yea even yea even<note n="i" place="margin">
+                  <hi>Rom.</hi> 5.14. <hi>and</hi> 9 / 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ouer infants also, which haue not sinned, after the lyke maner of the transgression of Adam, that is, a tually: Yet are, all since the fall of Adam begotten in his own likenes after his ima<g ref="char:EOLhyphen"/>ge, beeing conceyued and borne in iniquitie, and soo by nature the children of wrath and servants of sinne, and subiect to death, and all other calamities due vnto sinne in this world and for euer.</p>
+            <p n="5">5 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>5</label> That all mankinde beeing thus fallen and become altogether dead in sinne, &amp; subiect to the eternall vvrath of God both by ori<g ref="char:EOLhyphen"/>ginall and actuall corruption: The<note n="l" place="margin">
+                  <hi>Gen.</hi> 5 / 15. <hi>Eph.</hi> 2 / 4.5. <hi>Gea.</hi> 15.6. <hi>with Rom.</hi> 4 / 2. 3 4.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>and</hi> 3.14. 25.26. <hi>Joh.</hi> 3 / 16.</note> elect are redeemed, quickned, raysed vp and saued againe, not of themselues, neither by vvorks, lest a nie man should boste himself; but vvholly and only by God of his free grace and mercy through faith in Christ Iesus,<note n="m" place="margin">1. <hi>Cor.</hi> 1 / 30.31 <hi>Phst.</hi> 3.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 9.30.11 <hi>Iit.</hi> 23.5.6. <hi>and</hi> 9 23.24.</note>
+               <note place="margin">
+                  <hi>Gen.</hi> 5 / 5. <hi>Psal.</hi> 51 / 5. <hi>Eph.</hi> 2 / 3.</note> vvho of Good is made vnto vs vvisdome, &amp; righteousnes, &amp; sanctificatiō, &amp; redemption, that according as it is vvritten, Hee that reioyceth let him reioyce in the Lord.</p>
+            <p n="6">6 <label type="milestone">
+                  <seg type="milestoneunit">Art </seg>6</label> That this therfore only is lyfe<note n="n" place="margin">
+                  <hi>Ioh.</hi> 17 / 3. <hi>and</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 36. <hi>Isr.</hi> 31 / 33.34.</note> eternall to knovv the only true God, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vvhom hee hath sent into the vvorld Iesus Crist. And that on the contrarie the<note n="o" place="margin">2. <hi>Thes.</hi> 1 / 8. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eph.</hi> 1 / 6. <hi>ioh.</hi> 3 / 36.</note> Lord vvill rēder vengeance in flaming fire vn<g ref="char:EOLhyphen"/>to them that knovv not God, &amp; vvhich obey not the Gospell of our Lord Iesus Christ.</p>
+            <p n="7">7 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>7</label> That the rule of this knovvledge faith &amp; obedience, concerning the<note n="p" place="margin">
+                  <hi>Exod.</hi> 20 / 4.5.6. <hi>Deu.</hi> 4 / 2.5.6. <hi>Gen.</hi> 6 / 11. <hi>Exod.</hi> 39 / 42.43. 1. <hi>Chron.</hi> 28.19.</note> vvorship &amp; service of God &amp;<note n="q" place="margin">
+                  <hi>Psal.</hi> 119.105.</note> all other christiā dutyes, is not the<note n="r" place="margin">
+                  <hi>Esa.</hi> 29 / 13. <hi>Mar.</hi> 15 / 9. <hi>Ioh.</hi> 5 / 39. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Pet.</hi> 16 / 19. 2. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 3 / 16.17.</note> opinionis, devises, lavves, or constitutions of mē, but the vvritten vvord of the everlyving God, conteyned in the canonicall bookes of the old and nevv Testament.</p>
+            <p n="8">8 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>8</label> That in thus vvord<note place="margin">s <hi>Deut.</hi> 18 / 18. <hi>Ioh.</hi> 1 / 18. <hi>&amp;</hi> 15 / 15. <hi>&amp;</hi> 4.15. <hi>Act.</hi> 3.22.</note> Iesus Christ hath reveled vvhatsoever his fa<g ref="char:EOLhyphen"/>ther thought needfull for vs to knovv, beleeue &amp; obey as touching his<note n="t" place="margin">the whol Epish. le to the webr. the oughout.</note> person &amp; Offices, in<note n="v" place="margin">2. <hi>Cor.</hi> 1 / 20.</note> vvhom all the promises of God are yea, &amp; in vvhom they are Amen to the prayse of God through vs.</p>
+            <pb facs="tcp:22071:7"/>
+            <p n="9">9 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>9</label> That touching his person, the Lord Iesus, of vvhō<note n="x" place="margin">
+                  <hi>Zuk.</hi> 24 / 44. <hi>Ioh.</hi> 5 / 46. <hi>Act.</hi> 10 / 42.43.</note> Moses &amp; the Prophets vvrote, &amp; vvhō the Apostles preached, is the<note n="y" place="margin">
+                  <hi>Pro.</hi> 9 / 22. <hi>mica.</hi> 5 / 2. <hi>Ioh.</hi> 1 / 1.2.3. <hi>Heb.</hi> 1. <hi>Collos.</hi> 1 / 15.16.17.</note> everlasting Sonne of God, by eternall generation, the brightnes of his Fathers glorie, &amp; the engrauen forme of his Person; coessentiall, coequall, &amp; coeternall, god vvith him &amp; vvith the holy Gost, by vvhō hee hath made the vvorlds, by vvhom hee vphouldeth and governeth all the works hee hath made; vvho also vvhen the<note n="z" place="margin">
+                  <hi>Gal.</hi> 4 / 4. <hi>Gen.</hi> 3 / 15.</note> fulnes of tyme vvas come, vvas made man of a vvoman, of<note n="a" place="margin">
+                  <hi>Web.</hi> 7.14. <hi>Revel.</hi> 5 / 5.</note> the Tribe of Iudah,<note n="b" place="margin">
+                  <hi>Rom.</hi> 1 / 3. <hi>Gen.</hi> 22 / 18. <hi>Mat.</hi> 2.1. <hi>etc. Luk.</hi> 3 / 23. <hi>etc. Esa.</hi> 7 / 14. <hi>Luk.</hi> 1.26.17. <hi>etc. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ebr.</hi> 2 / 16.</note> of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>seed of Dauid &amp; Abraham, to vvyt of Mary that blessed Virgin, by the holy Ghost comming vpon hir, &amp; the povvre of the most high ouershadovving hir; &amp; vvas also<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Web.</hi> 4.15. <hi>Esa.</hi> 53 / 3.4.9. <hi>Phil.</hi> 2.7.8.</note> in all things lyke vnto vs, sinne only excepted.</p>
+            <p n="10">10 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>10</label> That touching his Office, hee<note n="d" place="margin">1. <hi>Tim.</hi> 2 / 5. <hi>Web</hi> 9.15. <hi>&amp;</hi> 13.20. <hi>Dan</hi> 9.14.25.</note> only is made the Mediator of the nevv Testament, even of the euerlasting Couenant of grace be<g ref="char:EOLhyphen"/>tvveen God &amp; man, to bee perfectly &amp; fully the<note n="e" place="margin">
+                  <hi>Deut.</hi> 18 / 15.18. <hi>Psal</hi> 110.4. <hi>Psel.</hi> 45 / <hi>Esa.</hi> 9 / 6.—. <hi>Act.</hi> 5.31. <hi>Esa.</hi> 55.4. <hi>Heb.</hi> 7 / 24. <hi>Luk.</hi> 1 / 32.33.</note> Prophet, Priest &amp; King of the Church of God for euermore.</p>
+            <p n="11">11 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>11</label> That hee<note n="f" place="margin">
+                  <hi>Pro.</hi> 8.23. <hi>Esa.</hi> 42 / 6. <hi>&amp;</hi> 49.1.5. <hi>and</hi> 11 / 2.3.4.6. <hi>Act.</hi> 10.38.</note> vvas frō euerlasting, by the iust &amp; sufficient authori<g ref="char:EOLhyphen"/>tie of the father, &amp; in respect of his manhood frō the womb, called &amp; seperated heervnto, &amp; anoynted also most fully &amp; aboundantly with all necessarie gifts, as it is<note n="g" place="margin">
+                  <hi>Ioh.</hi> 3.34.</note> vvritten; God hath not measured out the Spirit vnto him.</p>
+            <p n="12">12 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>12</label> That this<note n="h" place="margin">1. <hi>Tim.</hi> 2.5. <hi>Wch</hi> —.24. <hi>Pan.</hi> 7.14. <hi>Act.</hi> 4 / 12. <hi>Esa.</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 11. <hi>Luk.</hi> 1 / 33.</note> Office, to bee Mediator, that is, Prophet, Priest and King of the Church of God, is so proper to him, as neither in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hol, nor in anie part therof, it cā be trāfferred frō him to anie other.</p>
+            <p n="13">13 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>13</label> That touching his<note n="i" place="margin">
+                  <hi>Deu.</hi> 16 / 15.18. <hi>Act.</hi> 3 / 12.13.14. <hi>stlat.</hi> 3 / 1—. <hi>Ioh.</hi> 1.18. <hi>&amp;</hi> 17.8. <hi>Eph.</hi> 1.8.9. 2. <hi>Tim.</hi> 3.15.16 / 17.</note> Prophecie, Christ hath perfectly revealed out of the bozome of his father, the vvholl vvord &amp; vvill of God, that is needfull for his seruants, either ioyntly or seuerally to knovv, be<g ref="char:EOLhyphen"/>leeue &amp; obey: That hee hath spoken &amp; doth speake to his Church in his ovvn<note n="k" place="margin">
+                  <hi>Pro.</hi> 9 / 3. <hi>Ioh.</hi> 13.20. <hi>Luk.</hi> 10.16. <hi>Mat.</hi> 10 40.41. <hi>Deu.</hi> 33 / 8.10.</note> ordinance, by his ovvn ministers and instruments on<g ref="char:EOLhyphen"/>ly, and not by anie salse<note n="l" place="margin">
+                  <hi>Mat.</hi> 7 / 15.16. <hi>&amp;</hi> 24.23.24. 2. <hi>Pet.</hi> 2. 2. <hi>Tim.</hi> 4.3.4. <hi>Rom.</hi> 10 / 14.15. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er.</hi> 23 / 21. 1. <hi>ioh. to</hi>
+               </note> ministrie at anie tyme.</p>
+            <p n="14">14 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>14</label> That toching his<note n="m" place="margin">
+                  <hi>Ioh.</hi> 17 / 18. <hi>heb.</hi> 5 / 7.8.9. <hi>&amp;</hi> 91.1. <hi>Esa.</hi> 53 / <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 5 / 19. 1. <hi>Pet.</hi> 1 / 2. <hi>Collos.</hi> 1 / 20. <hi>Eph.</hi> 5 / 2.</note> Priesthood, beein consecrated, hee hath ap<g ref="char:EOLhyphen"/>peered once to put a vvay sinne, by offring &amp; sacrificing of himsell; and to this end hath fully performed and suffred all those things, by which God through the blood of that his crosse, in an acceptable sa<g ref="char:EOLhyphen"/>trifice, might bee reconciled to his elect; &amp; having<note n="n" place="margin">
+                  <hi>Eph.</hi> 2 / 1 4.15.16. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch.</hi> 9. <hi>&amp;</hi> 10.</note> brokē dovvn <hi>the</hi> partition vvall, &amp; ther vvith finished &amp; remoued al those legal rites, shadovves, &amp; ceremonies, is now<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 4 / 14.16. <hi>&amp;</hi> 9.24. <hi>and</hi> 10.19.20.</note> entred vvithin the vayle into the holy of Holies to the very heauen, and presence of God, vvhere hee for euer lyueth, and sitteth at the right hand of Maiestie<note n="*" place="margin">
+                  <hi>Rom.</hi> 8 / 34</note> ap<g ref="char:EOLhyphen"/>peering before the face of his Father, to make intercession for
+<pb facs="tcp:22071:8"/>such as come vnto the Throne of grace by that nevv &amp; living vvay And not that only, but maketh his people a<note n="p" place="margin">1. <hi>Pet.</hi> 2 / 5. <hi>Rev.</hi> 1 / 5.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>and</hi> 8.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4. <hi>Rom.</hi> 12 / 1. <hi>Mar.</hi> 9 / 49.50. <hi>Mal.</hi> 1 / 14. <hi>Ioh.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.23.24. <hi>Mat.</hi> 7 / 6.7.8. <hi>Es<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 1 / 12, <hi>etc.</hi>
+               </note> spirituall hovvse, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> holy Priesthood, to offer up spirituall sacrifices, acceptable to God through him. Neither doth the Father accept, or Christ offer ani<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> other sacrifice, vvorship, or vvorshippers</p>
+            <p n="15">15 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>15</label> That touching his<note n="q" place="margin">1. <hi>Cor.</hi> 15 / 4. <hi>etc.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Pet.</hi> 3 / 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Mat.</hi> 28 / 18.20.</note> Kingdom, beeing risen, ascended, entre<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> into glory, set at the right hand of God, al povvre in Heaven an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> earth giuē vnto him; vvhith povvre hee<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Iosh.</hi> 5 / 14. <hi>Zech</hi> 1 / 8. <hi>etc. Math.</hi> 1 / <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb.</hi> 1 / 14.</note> novv exerciseth ouer<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Angells and men, good and dad, to the preservation and saluation o<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the elect, to the overruling and destruction of the reprobate;<note place="margin">s <hi>Eph.</hi> 5 / 26 / 27 <hi>Ro.</hi> 5 / <hi>and</hi> 6. <hi>and</hi> 7. <hi>and</hi> 8. <hi>Chap. Rom.</hi> 14 / 17. <hi>Gal</hi> 5 / 22.23. 1. <hi>Ioh.</hi> 4 / 13. <hi>etc.</hi>
+               </note> com<g ref="char:EOLhyphen"/>municating and applying the benefits, virtue and frutes of his pro<g ref="char:EOLhyphen"/>phecy and Priesthood vnto his elect, namely to the remission, sub<g ref="char:EOLhyphen"/>duing, and takeing avvay of their sinnes, to their iustification, adop<g ref="char:EOLhyphen"/>tion-of-sonnes, regeneration, sanctification, preservation &amp; strēgth<g ref="char:EOLhyphen"/>ning in all their spirituall conflicts against Sathan, the vvorld &amp; th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> flesh &amp;c continually dvvelling in, governing &amp; keeping their heart in his tue faith and fear by his holy spirit, vvhich having<note n="t" place="margin">
+                  <hi>Psal.</hi> 51 / 10.11.12 <hi>and</hi> 89.30.31.32.33.34. <hi>Iob.</hi> 33 / 29.30. <hi>Esa.</hi> 5 4 / 8.9.10. <hi>Ioh.</hi> 13 / 1. <hi>and</hi> 16.31.32. <hi>with Luc.</hi> 22 / 31.32.40. 2. <hi>Cor.</hi> 12 / 7.8.9. <hi>Eph.</hi> 6 / 10.11. <hi>etc. Rom.</hi> 11 / 29. <hi>Gal.</hi> 5 / 17.22.23.</note> once give yt, hee never taketh avvay from them, but by yt still begette<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and nourisheth in them repentance, faith, loue, obedience, comfo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> peace, ioy, hope, and all christian vertues, vnto immortallitie, not vvithstanding that yt be somtymes through sinne and tentation, in<g ref="char:EOLhyphen"/>terrupted, smothered, and as yt vvere overvvhelmed for the tyme. A<g ref="char:EOLhyphen"/>gaine on the contrary,<note n="v" place="margin">
+                  <hi>Iob.</hi> 1 / 6. <hi>and</hi> 2. <hi>Chap.</hi> 1. <hi>Ring.</hi> 22.19. <hi>Esa.</hi> 10 / 5.15. <hi>Rom.</hi> 9 / 17.18. <hi>Rom.</hi> 1 / 21. <hi>and</hi> 2.4.5.6. <hi>Eph.</hi> 4 / 17.18.19. 2 <hi>Pet.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 3. 1. <hi>Thess.</hi> 5 / 3.7. <hi>Esa.</hi> 57 / 20.21. 2. <hi>Pet.</hi> 2 / <hi>the whol Chapter.</hi>
+               </note> ruling in the vvorld over his enimies, Sa<g ref="char:EOLhyphen"/>than, and all the vessels of vvrath; limiting, vsing, restrayning the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by his mightie povvre, as seemeth good in his diuine vvisdome and iustice, to the execution of his determinate counsell, to vvit to their seduction, hardning &amp; condemnation, delyvering them vp to a re<g ref="char:EOLhyphen"/>probate mynde, to bee kept in darcknes, sinne and sensuallitie vnto iudgment.</p>
+            <p n="16">16 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>16</label> That this Kingdom shall bee then fully perfected vvhen he shal the<note n="x" place="margin">
+                  <hi>Dan.</hi> 12 / 2.3 / <hi>Ioh</hi> 5 / 22.28.29. <hi>Mat.</hi> 25 / 31. 1. <hi>Cor.</hi> 15.24. <hi>Mat.</hi> 13 / 41.49. 2. <hi>Thes.</hi> 1 / 9.10 1. <hi>Thes.</hi> 4 / 17. <hi>Ioh</hi> 17 / 22.23. 1. <hi>Cor.</hi> 15 / 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> second tyme come in glorie vvith his mightie Angells vn<g ref="char:EOLhyphen"/>to iudgment, to abolish all rule, authoritie and povvre, to put all hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> enimies vnder his feet, to seperate and free all his chosen from then for ever, to punish the vvicked vvith everlasting perdition from hi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> presence, to gather, ioyne, and carry the godly with himself into end lesse glory, and then to delyver vp the Kingdome to God, even th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Father, that so the glorie of the father may bee full and perfect in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Sonne, the glorie of the Sonne in all his members, and God bee a in all.</p>
+            <pb facs="tcp:22071:8"/>
+            <p n="17">17 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>17</label> That in the meane tyme, bisides his absolute rule in the world, Christ hath here in earth a<note n="y" place="margin">
+                  <hi>Ioh.</hi> 18.36. <hi>Mth</hi> 3 / 6. <hi>and</hi> 10.21. 1. <hi>Tim.</hi> 3 / 15. <hi>Zach</hi> 4 / 7.</note> spirituall Kingdome and a canonicall regiment in his Church ouer his servants, which Church hee hath<note n="z" place="margin">
+                  <hi>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> 20 / 28. <hi>Tit.</hi> 2 / 14.</note> purchased and redeemed to himself, as a peculiar inheritance (not<g ref="char:EOLhyphen"/>withstanding<note n="a" place="margin">
+                  <hi>Mat.</hi> 13 / 47. <hi>and</hi> 22.12. <hi>Luk.</hi> 13 / 25.</note> manie hypocrites do for the tyme lurk emongest thē)<note n="b" place="margin">
+                  <hi>Mar.</hi> 16 / 15.16. <hi>Col.</hi> 1 / 21 / 1. <hi>Cor.</hi> 6 11. <hi>Tit.</hi> 3 / 3.4.5.</note> calling and winning them by the powre of his word vnto the faith,<note n="c" place="margin">
+                  <hi>Esa.</hi> 52.11 / <hi>Ezr.</hi> 6 / 21. <hi>Act.</hi> 2 / 40. 2. <hi>Cor.</hi> 6 / 14. <hi>Act.</hi> 17 / 3.4. <hi>and</hi> 19.9. 1. <hi>Pet.</hi> 2 / 4.5.9.25.</note> seperating them from emongst vnbeleevers, from idolitrie, false worship, superstition, vanitie, dissolute lyfe, &amp; works of darknes, &amp;c; making them a royall Priesthood, an holy Nation, a people set at li<g ref="char:EOLhyphen"/>bertie to shew foorth the virtues of him that hath called them out of darknes into his meruelous light,<note n="d" place="margin">
+                  <hi>Esa.</hi> 60 / 4.8. <hi>Psal.</hi> 110 / 3. <hi>Act.</hi> 2 41. <hi>Eph</hi> 4 / 16. <hi>Co<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 2 / 5.6.</note> gathering and vniting thē to<g ref="char:EOLhyphen"/>gether as members of one body in his faith, loue and holy order, vn<g ref="char:EOLhyphen"/>to all generall and mutuall dutyes,<note n="e" place="margin">
+                  <hi>Esa.</hi> 6<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 6. <hi>Ier</hi> 3 / 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / <hi>Ezek</hi> 34. <hi>Zech</hi> 11.8. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb.</hi> 12 / 28.29. <hi>Mat.</hi> 28 / 20.</note> instructing &amp; governing thē by such officers and lawes as hee hath prescribed in his word; by which Officers and lawes hee governeth his Church, and by<note n="f" place="margin">
+                  <hi>Wat.</hi> 7 / 15. <hi>and</hi> 24.23.24. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Tim.</hi> 4 / 3.4. <hi>Ier.</hi> 7 / 30.31. <hi>and</hi> 23.21. <hi>Den.</hi> 12 / 3<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Ren.</hi> 2 / 2. <hi>&amp;</hi> 22.18.19.</note> none other.</p>
+            <p n="18">18 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>18</label> That to<note n="g" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>v</hi> 26 / 11.12. <hi>
+                     <gap reason="illegible" resp="#murp" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>s.</hi> 18 / 19.20. <hi>vi<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 4. <hi>Ezek.</hi> 48.35 / 2. <hi>Cor.</hi> 6.18</note> this Church hee hath made the promises, and giuen the seales of his Covenant, presence, <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> blessing and protection:<note n="h" place="margin">
+                  <hi>Esa.</hi> 3 / 16. 1. <hi>tim</hi> 3 / 15. <hi>and</hi> 4.16. <hi>&amp;</hi> 6.3.5. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Tim.</hi> 2 / 15 <hi>tit.</hi> 1 / 9. <hi>Deu.</hi> 31.26.</note> Heere are the holy Oracles as in the <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Arke, s<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly kept &amp; puerly taught. Heere are<note n="i" place="margin">
+                  <hi>Psal.</hi> 46 / 4.5. <hi>Ezek.</hi> 47 / 1. <hi>etc. Iob.</hi> 38 / 39.</note> all the <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and sp<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>s of his grace continually replenished and flowing forth. Heere is<note n="k" place="margin">
+                  <hi>Ish.</hi> 11 / 12. <hi>Ioh.</hi> 3 / 1<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Isa.</hi> 49 / 22.</note> hee lysted vp to all Nations, hither hee<note n="l" place="margin">
+                  <hi>E<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 55.1. <hi>Mat.</hi> 6 / 33. <hi>&amp;</hi> 22.1. <hi>Pro.</hi> 9 / 4.<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Iob.</hi> 7 / 37.</note> inuiteth all mē to his supper, his mariage seast: hither ought<note n="m" place="margin">
+                  <hi>Den.</hi> 12 / 5.11. <hi>Esa.</hi> 2 / 1.3. <hi>Zach.</hi> 14 / 16.17.18.10.</note> all men of all estates and degrees that acknow<g ref="char:EOLhyphen"/>ledg him their Prophet, Priest and King to repayre, to bee<note n="n" place="margin">
+                  <hi>Esa.</hi> 44 / 5. <hi>Psal</hi> 8<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 5.6. <hi>Can.</hi> 4.12 <hi>Gal.</hi> 6 / 10. <hi>Col.</hi> 1 / 12.13. <hi>Eph.</hi> 2 / 19.</note> enrolled <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mongst his houshold seruants, to bee vnder his heauenly conduct and government, to leade their lyues in his walled sheepfold, &amp; wa<g ref="char:EOLhyphen"/>tered orchard, to haue communion heer with the Saincts, that they may bee made meet to bee partakers of their inheritāce in the king<g ref="char:EOLhyphen"/>dome of God.</p>
+            <p n="19">19 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>19</label> That as<note n="o" place="margin">
+                  <hi>See the</hi> 18. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rticle before / and Exod.</hi> 25.2. <hi>and</hi> 35.5. 1. <hi>Cor.</hi> 12 / 4.5.6.7.12.18 <hi>Rom.</hi> 12.4.5.6. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Pet.</hi> 4.16. <hi>Eph.</hi> 4 / 16. <hi>Colos</hi> 2 / 5.</note> all his seruants and subiects are called hither, to pre<g ref="char:EOLhyphen"/>sent their bodyes and soules, and to bring the guyfts God hath gi<g ref="char:EOLhyphen"/>ven them; so beeing come, they are heer by himself bestowed in their severall order, peculiar place, due vse, beeing fitly compact and knit together by euery ioynt of help, according to the effectuall work in the measure of euery parte, vnto the edification of yt self in loue; whervnto whē hee<note n="p" place="margin">
+                  <hi>Eph.</hi> 4 / <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10.11.12.13. <hi>Rom.</hi> 12 / 7.8. <hi>&amp;</hi> 16.1.1. <hi>Cor.</hi> 12.4.5.6.7.8.11.14.15.16.17.18.28. 1. <hi>Tim.</hi> 3 / <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 5.3.9.17.21. <hi>Act.</hi> 6 / 2.3. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14.13. <hi>and</hi> 20.27.28. <hi>Phil.</hi> 1 / <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> ascended vp on high hee gaue guifts vnto men,
+<pb facs="tcp:22071:9"/>that hee might fill all these things, and hath distributed these guifts, vnto seuerall functions in his Church, hauing instituted and ratified to<note n="q" place="margin">
+                  <hi>Rev.</hi> 11 / 18.19. <hi>Mar.</hi> 28 / 20. 1. <hi>Tim.</hi> 6 / 13.14.</note> contynue vnto the worlds end, only this publick ordinarie Mi<g ref="char:EOLhyphen"/>nisterie of Pastors, Teachers, Elders, Deacons, Helpers to the in<g ref="char:EOLhyphen"/>struction, government, and seruice of his Church.</p>
+            <p n="20">20 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>20</label> That this ministerie is exactlye described,<note n="r" place="margin">
+                  <hi>Pro.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 8.9. <hi>heb.</hi> 3.2.6. <hi>the first worstle to Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<g ref="char:EOLhyphen"/>my wholly. Act.</hi> 6 / 3.5.6. <hi>&amp;</hi> 14.23. <hi>&amp;</hi> 10.17. <hi>etc.</hi> 1. <hi>pet.</hi> 5 / 2.3. 1. <hi>Cor.</hi> 5 / 4.5.11.12.13. <hi>etc. and</hi> 9.7.9.14.</note> described, distinguished, limited, concerning their office, their calling to their office, ther administra<g ref="char:EOLhyphen"/>tion of their office, and their maintenance in their office, by most perfect and playne<note place="margin">s <hi>Web.</hi> 2.3. <hi>and</hi> 3.3. <hi>and</hi> 12.25. <hi>etc.</hi> 2. <hi>Tim.</hi> 3 / 14.15. <hi>Gil.</hi> 1 / 8.9. 1. <hi>tim.</hi> 6.13.14. <hi>Deut.</hi> 12 / 32. <hi>and</hi> 4 2. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>evel.</hi> 21 / 18.19</note> lawes in Gods word, which lawes it is not law<g ref="char:EOLhyphen"/>full for these Ministers, or for the wholl Church wittinly to neglect, transgresse, or violate in anie parte; nor yet to receiue anie other lawes brought into the Church by anie person whatsoever.</p>
+            <p n="21">21 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>21</label> That<note n="t" place="margin">
+                  <hi>Num.</hi> 16 / 5.40. <hi>&amp;</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.7. 2. <hi>Chron.</hi> 26.18. <hi>Io<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 10.1.2 <hi>and.</hi> 2.17. <hi>Web.</hi> 5.4. <hi>Ret.</hi> 6 / 3.5.6. <hi>&amp;</hi> 14.23. <hi>Tit.</hi> 1 / 5</note> none may vsurp or execute a ministerie but such as are rightly called by the Church whereof they stand ministers; and that such so called ought to gyve all diligence to<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Bet.</hi> 2.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8. 1. <hi>cor.</hi> 4 / 1.2. <hi>Col.</hi> 4 / 17. 1. <hi>Tim.</hi> 1 / 18.19. <hi>&amp;</hi> 4.12. <hi>and</hi> 5.11 <hi>&amp;</hi> 6.11.12.13.14. 2. <hi>Tim.</hi> 1 / 13.14. <hi>and</hi> 3.14. <hi>and</hi> 4.5 / <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi> 5 / 1.2.3.4.</note> fulfill ther ministerie, to bee found faithfull and vnblamable in all things.</p>
+            <p n="22">22. <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>22</label> That this ministerie is alyke given to euery Christian con<g ref="char:EOLhyphen"/>gregation, with like povvre and commission to haue and enioy the same, as God offereth fit men and meanes, the same r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>les given to all for the election and execution therof in all places.</p>
+            <p n="23">23 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>23</label> That as every christian Congregation<note n="x" place="margin">
+                  <hi>Act.</hi> 6 / 3.5.6. <hi>&amp;</hi> 14.23. 2. <hi>Cor.</hi> 8.19. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et.</hi> 15.2 / 3.22.25. 1. <hi>Tim.</hi> 3 / 10. <hi>and</hi> 4.14 / <hi>&amp;</hi> 5.22 <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n n.</hi> 8 / 9.10.</note> hath povvre and com<g ref="char:EOLhyphen"/>mandement to elect and ordeine their ovvn ministerie according to the rules prescribed, and<note n="y" place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Thes.</hi> 5 / 12.13. 1. <hi>Tun.</hi> 5 / 3.17. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb.</hi> 13 / 17. 1. <hi>cor.</hi> 9. <hi>Gal.</hi> 6.6.31. <hi>Tim.</hi> 3 / 10. <hi>and</hi> 5.22. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om.</hi> 16 / 17 <hi>Phyl.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 2.18.19. 1. <hi>Tim.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3 / 5. <hi>Tech.</hi> 4<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 1:.13. <hi>Mat.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 17.</note> whilest they shal faithfully execute their office, to haue them in superaboundant loue for their vvorke sake, to provide for them,<note place="margin">
+                  <hi>Mat.</hi> 28 / 20.1. <hi>cor</hi> 14 / 33.36. 1. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or.</hi> 12 / 4 5.6.7. <hi>and</hi> 4 17. <hi>and.</hi> 16.1 <hi>cyd</hi> 4 / 10.11.12.13. 1. <hi>cor.</hi> 3 / 21.22.23. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at.</hi> 18.17. <hi>see Article.</hi> 20.</note> to honour them and reuerence them, according to the dignitie of the office they execute. So have they also<note n="z" place="margin">1. <hi>Tim.</hi> 3 / 10. <hi>and</hi> 5.22. <hi>Rom.</hi> 16 / 17 <hi>Ph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 2.18.19. 1. <hi>Tim. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 3.5. <hi>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch.</hi> 4 1 / 11.13. <hi>Mat.</hi> 13 / 17.</note> provvre and commandement when anie such defalt, either in their lyfe, Doc<g ref="char:EOLhyphen"/>trine, or administration breaketh out, as by the rule of the word de<g ref="char:EOLhyphen"/>barreth them from, or depriveth them of their ministerie, by due or<g ref="char:EOLhyphen"/>der to depose them from the ministerie they exercised; yea if the case so require, and they remayne obstinate and impenitent, orderly to cut them off by excommunication.</p>
+            <p n="24">24 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>24</label> That<note n="a" place="margin">
+                  <hi>Psal.</hi> 122.3. <hi>Act</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 47. <hi>Rom.</hi> 16 / <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Leb.</hi> 0 / 4.5. <hi>&amp;</hi> 24.14. <hi>Num.</hi> 5 3. <hi>Der.</hi> 3 / 9. <hi>Mat.</hi> 18 / 17. 1. <hi>cor</hi> 5 / 4. 2. <hi>cor.</hi> 2 / 6 7.8.</note> Christ hath given this povvre to receiue in or to cut off anie member, to the vvholl body together of euery Christian Con<g ref="char:EOLhyphen"/>gregation, and not to anie one member aparte, or to moe members sequestred from the vvholl, or to anie other Congregation to doo it for thē: yet that<note n="b" place="margin">1. <hi>Cor.</hi> 3 / 21.22.23. <hi>Act</hi> 15.1. <hi>cor.</hi> 3 / 4.5. <hi>&amp;</hi> 12.20.</note> ech Congregation ought to vse the best help they can heer vnto, and the most meet member they haue to pronounce the same in their publick <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>embly.</p>
+            <pb facs="tcp:22071:9"/>
+            <p n="25">25 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>25</label> That euery member of ech Christian Congregation,<note place="margin">
+                  <hi>Lev.</hi> 4. <hi>P<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi> 141 / 5. <hi>and</hi> 1.10.11.12. <hi>&amp;</hi> 1. <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 8.9. 2. <hi>Chro</hi> 26 / <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0. <hi>Act.</hi>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> / 2.4 2. <hi>Tim.</hi> 5 / 19.20.21.</note> hovv ex<g ref="char:EOLhyphen"/>cellent, great, or learned soeuer, ought to be subiect to this censure &amp; iudgment of Christ; Yet ought not the Church vvithout great care &amp; due advise to procede against such publick persons.</p>
+            <p n="26">26 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>26</label> That for the<note n="c" place="margin">
+                  <hi>C<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt.</hi> 3 / 3. <hi>Esa.</hi> 62 / 6 <hi>Exc.</hi> 33.2. <hi>Mat.</hi> 14 / 45. <hi>Luk.</hi> 12 / 42. <hi>Act.</hi> 20 / 28 <hi>web.</hi> 13 / 17.</note> keeping of this Church in holy &amp; orderly commu<g ref="char:EOLhyphen"/>nion, as Christ hath placed some speciall men over the Church, who by their office are to governe, ouersee, visite, watch &amp;c. So<note n="d" place="margin">
+                  <hi>Mar.</hi> 13 / 34.37. <hi>Luk.</hi> 17 / 3. 1. <hi>Thes</hi> 5 / 14. <hi>Gal.</hi> 6 / 1. <hi>Jude.</hi> 3 / 20. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ebr.</hi> 10 / 24.2<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>&amp;</hi> 12.15.</note> lykevvise for the better keeping therof in all places, by all the members, hee hath giuen authoritie &amp; layd duty vpon thē all to watch one ouer another.</p>
+            <p n="27">27 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>27</label> That vvhilest the Ministers and people thus remayne together in this holy order and christian communion, ech one endevoring to do the will of God in their calling, &amp; thus to vvalke in the obedience of faith Christ hath promised to bee present with them,<note place="margin">
+                  <hi>Don.</hi> 28 / 1. <hi>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e. Mat.</hi> 28 / 20. <hi>Luk.</hi> 12 / 35.36.37.38. <hi>Mat.</hi> 16.18. <hi>Zach</hi> 2 / 5. <hi>&amp;</hi> 12 / 2.3.4. <hi>Psal.</hi> 125 / 2. <hi>&amp;</hi> 131.12.13. <hi>e<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>c.</hi>
+               </note> to blesse &amp; defend them against all adversarie povvre, &amp; that the gates of Hell shall not prevayle against them.</p>
+            <p n="28">28 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>28</label> But when &amp; vvhere this holy order &amp; diligent vvatch was in<g ref="char:EOLhyphen"/>termitted, neglected, violated. Antichrist that man of sinne corrupted &amp; altered the holy ordinances, offices,<note place="margin">
+                  <hi>Re<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 9. <hi>&amp;</hi> 13 / <hi>&amp;</hi> 17. <hi>&amp;</hi> 18.2. <hi>Thes.</hi> 2 / 3.4.9.10.11.12. <hi>Psal.</hi> 74. <hi>Esa.</hi> 14.13.14. <hi>Dan.</hi> 7.25. <hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10.11.12. <hi>&amp;</hi> 11.3<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 1. <hi>Tim.</hi> 4 / 1.2. 1. <hi>io<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 2 / 18.22. <hi>&amp;</hi> 4.3</note> &amp; administratiōs of the church brought in &amp; erected a strange new forged ministerie, leitourgie and government &amp; the Nations Kingdoms &amp; inhabitants of the earth, were made drunken vvith this cup of fornications &amp; abhominations, &amp; all people enforced to receiue the Beasts marke and worship his image &amp; so brought into confusion &amp; babilonish bondage.</p>
+            <p n="29">29 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>29</label> That the present ministerie reteyned &amp; vsed in Englad of Arch. b<seg rend="sup">••</seg> Lo<seg rend="sup">bb.</seg> Deanes, Prebendaries, Canons, Peti-Canons,<note place="margin">
+                  <hi>Re<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi> 9 / 3 <hi>etc. &amp;</hi> 13.15.16.17. <hi>&amp;</hi> 18.1.17. <hi>compaced with Rom.</hi> 12 / 7.8. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ph.</hi> 4 / 11.12. 1. <hi>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m.</hi> 3 / 15. <hi>&amp;</hi> 5.17. <hi>Con<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ate this Art. with the</hi> 1.7.12.13.14.19.20.21.22.23.24.28. <hi>Ar<g ref="char:EOLhyphen"/>tities aforesaid.</hi>
+               </note> Arch-Dea<g ref="char:EOLhyphen"/>tons, Chancellors, Commissaries, Priests, Deacons, Parsons, Viccars Curats, Hireling rouing Preachers, Church-wardens, Parish-clerkes their Doctors, Proctors, &amp; wholl rable of those Courts with all from &amp; vnder them set ouer these Cathedrall &amp; Parishionall Assemblies in this confusion, are a strange &amp; Antichristian ministerie &amp; offices; &amp; are not that ministerie aboue named instituted in Christs Testament, or allovved in or ouer his Church.</p>
+            <p n="30">30 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>30</label> That their<note n="e" place="margin">
+                  <hi>Cempare with Articies</hi> 1 / 7.12.13.14.19. <hi>etc. Rev.</hi> 9.3 / <hi>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>c. &amp;</hi> 18.14.17. <hi>I Joh.</hi> 10 / 1. <hi>Dan.</hi> 7 / 8.<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. and</hi> 8.10.11.12. 2 <hi>Thes.</hi> 2.3.4.8.9. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 17 / 4.5.16.</note> Offices, Entrance, Administration and maintenance, with their<note n="f" place="margin">
+                  <hi>K<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>b.</hi> 22 / 25.26. <hi>Rev.</hi> 14.11 <hi>&amp;</hi> 17.3.4.5. <hi>&amp;</hi> 13.15.16.17 1. <hi>Pet.</hi> 5 / 3. <hi>with Ioh.</hi> 3 / 29. <hi>&amp; with Rev.</hi> 2.1. 1. <hi>Ring.</hi> 22.27. <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 11.15.16.</note> names, titles, privileges, &amp; prerogatiues the povvre &amp; rule they vsurp ouer and in these Ecclefiasticall assemblies ouer the wholl ministerie, wholl ministration and affaires therof, yea one ouer ano<g ref="char:EOLhyphen"/>ther by their making Priests, citing, fuspending, silencing, deposing, ab<g ref="char:EOLhyphen"/>soluing, excommunicating, &amp;c. Their confounding of Ecclefiasticall and Civile iurisdiction, causes &amp; proceedings in ther persons, courts,
+<pb facs="tcp:22071:10"/>cōmissions, Visitations, the rest of lesse rule, taking their ministerie frō and exercising it vnder them by their<note n="g" place="margin">
+                  <hi>Reb.</hi> 13 / 15.16.17. <hi>Esa.</hi> 29.13. <hi>Mar.</hi> 7 / 7.8. <hi>Ga.</hi> 1 / 10. <hi>etc. and</hi> 2 / 4.5. <hi>Col.</hi> 2 / 20.22.23. <hi>Ezek.</hi> 8 / 5. <hi>&amp;</hi> 13.9.10.11.18.19. <hi>Mica</hi> 2 / 11. <hi>mal.</hi> 1 / 8.13.14</note> prescription and limitation, swearing Canonicall obedience vnto them, administring by their de<g ref="char:EOLhyphen"/>vised imposed, stinted popish Leiturgie, &amp;c. are sufficient proofs of the former assertion, the perticulars therin beeing duly examined by and compared to the Rules of Christs Testament.</p>
+            <p n="31">31 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>31</label> That these Ecclesiastiall Assemblies,<note place="margin">
+                  <hi>Rev.</hi> 18 / 2. 1. <hi>Cor.</hi> 14 / 11. <hi>Tit.</hi> 15 / 19. <hi>Mal.</hi> 1 / 4.6.8. <hi>Wos.</hi> 4 / 14. <hi>etc. Rom.</hi> 6 / 16. 2. <hi>Pet</hi> 2 / 19. <hi>compare with. Art.</hi> 1.7.11.12.13.14.15.17.18.19.20.24.28.29.30. <hi>aforesaid.</hi>
+               </note> remayning in confusion and bondage vnder this Antichristian Ministerie, Courts, Canons, worship, Ordinances. &amp;c. without freedom or povvre to redresse anie enormitie, haue not in this confusion and subiection, Christ their Prophet, Priest, and King, neither can bee in this estate, (whilest wee iudge them by the rules of Gods word) esteemed the true, orderly gathered, or cōstituted churches of Christ, wherof the faithfull ought to beecome or stand Members, or to haue<note n="h" place="margin">
+                  <hi>Levit.</hi> 17 / <hi>Mos.</hi> 4 / 15 / 1. <hi>Cor.</hi> 10.18 19.20. 2. <hi>Cor.</hi> 6 / 14.15 / 16. <hi>Rev.</hi> 18 / 4. <hi>Cant.</hi> 1 / 6.7.</note> anie Spirituall com<g ref="char:EOLhyphen"/>munion vvith them in their publick vvorship and Administra<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="32">32 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>32</label> That<note n="i" place="margin">
+                  <hi>Reu.</hi> 18 / 4. <hi>Esa.</hi> 48 / 20. <hi>and</hi> 52.11. <hi>Ile.</hi> 50 / 8. <hi>&amp;</hi> 51.6.45. <hi>Zech.</hi> 1 / 6.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2. <hi>Cord.</hi> 15 /. <hi>and</hi> 17.6.2. <hi>King.</hi> 23 / 5 <hi>etc. Rom.</hi> 13 / 4. <hi>Mat.</hi> 22 / 21. <hi>rev.</hi> 27 / 16.</note> by Gods Commandement all that will bee saued, must vvith speed come forth of this Antichristian estate,<note n="k" place="margin">
+                  <hi>Zech.</hi> 1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 2.4.5.6. <hi>J<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 51 / 26. <hi>Psal</hi> 119 / 59.60.128. <hi>Prov.</hi> 5 / 10. <hi>Es<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 11.12 <hi>and</hi> 35.8. <hi>Zach.</hi> 14 / 21. <hi>Pro.</hi> 3 / 9.16. <hi>psal.</hi> 16.3 / 4. <hi>compa<g ref="char:EOLhyphen"/>red <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Exod.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.4 / 5. <hi>Iudg.</hi> 17. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4.5. <hi>Eyed.</hi> 16.17 18.19. 1. <hi>Cor.</hi> 10.1<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10.21.22. <hi>com<g ref="char:EOLhyphen"/>pared with Hov.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> / 10. <hi>&amp; with</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Cor.</hi> 2.3.4.5. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Tim.</hi> 5 / 17.</note> leaving the suppression of it vnto the Magistrate to vvhom it belongeth. And that both all such as haue receyued or exercised anie of these false Offices or anie pretended function or Ministerie in or to this false and Antichristian constitution, are vvillingly in Gods feare, to giue ouer and leaue those vnlavvfull Offices, and no longer to minister in this maner to these Assemblies in this estate And that none also, of what sort or condition soever, doo giue anie part of their Goods, Lands, Money, or money vvorth to the maintenance of this false Ministerie and vvorship vpon anie Commandement, or vnder anie colour vvhatsoeuer.</p>
+            <p n="33">33 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>33</label> That beeing come forth of this antichristian estate vnto the freedom and true profession of Christ, besides the<note n="m" place="margin">
+                  <hi>Gen.</hi> 18.19. <hi>Exod.</hi> 13 / 8 14. <hi>Pro.</hi> 31 / 26.17. <hi>Eph.</hi> 6 / 4. <hi>Deut.</hi> 6 / 7. <hi>Psal.</hi> 78 / 9.4</note> instructing and
+<pb facs="tcp:22071:10"/>vvell guyding of their ovvn Families, they are<note n="n" place="margin">
+                  <hi>Ru<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 17.37. <hi>Psal.</hi> 110 / 3 <hi>Mas. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> / Esa.</hi> 44.5. <hi>Act.</hi> 2 / 41.42. <hi>Iis.</hi> 50 / 4.5. <hi>Neh.</hi> 9 / 38. <hi>Act.</hi> 2 / 41.42.</note> vvillingly to joyne together in christian communion and orderly couenant, and by con<g ref="char:EOLhyphen"/>fession of Faith and obedience of Christ, to<note n="o" place="margin">1. <hi>Cor.</hi> 1 / 2. <hi>and</hi> 11.14. <hi>Rev.</hi> 1 / 20 <hi>and</hi> 2.1.8.12.18. <hi>&amp;</hi> 3.1.7.14. <hi>Eph.</hi> 2 / 19. <hi>Ccl.</hi> 2 / 19.</note> vnite themselues into peculiar Congregatiōs; vvherin, as members of one body vvherof Christ is the only head, they are to vvorship and serue God accor<g ref="char:EOLhyphen"/>ding to his vvord, remembringto<note n="p" place="margin">
+                  <hi>Exod.</hi> 20 / 8. <hi>Rev.</hi> 1 / 10. <hi>Act.</hi> 20.7. 1. <hi>Cor.</hi> 16 / <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> keep holy the Lords day.</p>
+            <p n="34">34 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>34</label> That such as<note n="q" place="margin">1. <hi>Cor.</hi> 14 / <hi>tem.</hi> 12.6. 1. <hi>Cor.</hi> 12 / 7. 1. <hi>Pet.</hi> 4 / 10. <hi>Act.</hi> 13.15. 1. <hi>Thes.</hi> 5 / 20</note> God hath giuen guiftes to enterpret the Scrip<g ref="char:EOLhyphen"/>tures, tryed in the exercise of Prophecie, giving attendance to studie and learning, may and ought by the appointment of the Congrega<g ref="char:EOLhyphen"/>tion, to teach publickly the vvord, vntill the people bee meet for, and God manifest men vvith able guifts and fitnes to such Office or Of<g ref="char:EOLhyphen"/>fices as Christ hath appointed to the publick ministerie of his church; but<note n="r" place="margin">
+                  <hi>Num.</hi> 16 / 10.39.40. <hi>Rom.</hi> 12.7. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch.</hi> 5 / 4. <hi>Ioh.</hi> 1 / 23.25.</note> no Sacraments to bee administred vntill the Pastors or Tea<g ref="char:EOLhyphen"/>chers bee chosen and ordeyned into their Office.</p>
+            <p n="35">35 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>35</label> That<note place="margin">s <hi>Rev.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Act.</hi> 6 / 3.5.6. <hi>&amp;</hi> 14.21.22.23. <hi>Tit.</hi> 1 / 5. <hi>etc.</hi> 1. <hi>Cor.</hi> 12 / 7.8.14.15. 1. <hi>Tim.</hi> 3.</note> vvheras ther shalbee a people fit, and men furnished with meet and necessarie guifts, they doo not only still continue the exer<g ref="char:EOLhyphen"/>cise of Prophecie aforesayd, but doo also vpon due tryall, proceed vn<g ref="char:EOLhyphen"/>to choyce and ordination of Officiers for the ministerie and servise of the Church, according to the rule of Gods vvord; And that soe they<note n="t" place="margin">
+                  <hi>Col.</hi> 2 / 5.6.7. 2. <hi>Thes.</hi> 2 / 15. <hi>Iud.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / <hi>etc. Mat.</hi> 28 / 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> hold on still to vvalke forward in the wayes of Christ for their mutuall edification and comfort, as it shall please God to giue know<g ref="char:EOLhyphen"/>ledge and grace thervnto. And perticularly, that<note n="v" place="margin">
+                  <hi>Act.</hi> 2 / 38.39. 1. <hi>Cor.</hi> 7 / 14. <hi>Rom.</hi> 11 / 16 / <hi>Gen.</hi> 17 / 7.11.27. 1. <hi>cor<g ref="char:EOLhyphen"/>re</hi> / 2. <hi>Psal.</hi> 12 / 30. <hi>Exod.</hi> 12 / 48.49. <hi>Act.</hi> 16 / 15.33. 1. <hi>Cor.</hi> 1 / 16. <hi>Mar.</hi> 10 / 13 / 14.15.16. <hi>Gal.</hi> 3 / 29.</note> such as bee of the seed, or vnder the government of anie of the Church, bee euen in their infancie receiued to Baptisme, ond made pertakers of the signe of Gods Couenant made with the saithfull and their seed throvgh<g ref="char:EOLhyphen"/>out all Generations. And that<note n="x" place="margin">
+                  <hi>Mat.</hi> 26 / 26.27. 1. <hi>Cor.</hi> 11.28. <hi>and</hi> 10.3.4.16.17. <hi>act.</hi> 2 / 42. <hi>&amp;</hi> 20.7.8</note> all of the Church that are of yeeres, and able to examine themselues, doo communicate also in the Lords Supper both men<note n="y" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>al.</hi> 3 / 28. <hi>Act.</hi> 2 / 42. <hi>with</hi> 1.14. 1. <hi>Cor.</hi> 12 / 13.</note> and vvomen, and in<note n="z" place="margin">
+                  <hi>Mat.</hi> 26 / 26.27. 1. <hi>Cor.</hi> 10 / 3.4.16. <hi>&amp;</hi> 11.23.24.25.26.27.28.29.</note> both kindes bread and vvyne in which<note n="a" place="margin">1. <hi>Cor.</hi> 10 / 16.17. <hi>&amp;</hi> 11.23 24.25.26, <hi>etc. Mat.</hi> 26 / 26.27.29. <hi>&amp;</hi> 15.17. <hi>Job.</hi> 12 / 8.</note> Elements, as also in the vvater of baptisme, euen af<g ref="char:EOLhyphen"/>ter their are consecrate, there is neyther transubstantiation into, nor Consubstantiation with the bodye and bloode of Iesus Christ; vvhome<note n="b" place="margin">
+                  <hi>Act.</hi> 3 / 11.57.56</note> the Heauens must conteyne; vntill the tyme
+<pb facs="tcp:22071:11"/>that al things bee restored.<note n="c" place="margin">
+                  <hi>Sea.</hi> 17 / 11. <hi>tom.</hi> 4 / 11. <hi>Exod.</hi> 12 / 13. <hi>with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eb.</hi> 13 / 20. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. Cor.</hi> 11 / 26.27.28.29. <hi>&amp;</hi> 10.3.4.5. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om.</hi> 2.28.29. <hi>Act.</hi> 15.9. <hi>Rom.</hi> 5 / <hi>&amp;.</hi> 6.7. <hi>&amp;</hi> 8. <hi>Chap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> But they are in the ordinance of God sig<g ref="char:EOLhyphen"/>nes and seales of Gods euerlasting couenant representing and offring to all the receiuers, but exhibiting only to the true beleevers the Lord Iesus Christ and all his benefits vnto righteousnes, sanctification and eternall lyfe, through faith in his name to the glorie and prayse of God.</p>
+            <p n="36">36 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>36</label> That thus<note n="e" place="margin">
+                  <hi>Leb.</hi> 4.13. <hi>etc.</hi> 2. <hi>Chro.</hi> 15 / 9.17. <hi>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> 30.18.19. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> / and</hi> 3.1. <hi>Cor.</hi> 1.20. <hi>Phil.</hi> 2 / 1.2.3.4.5.6. <hi>and</hi> 3.15.16. <hi>heb.</hi> 10.25. <hi>sub.</hi> 19.</note> beeing rightly gathered, established, and still procee<g ref="char:EOLhyphen"/>ding in christian communion &amp; obedience of the Gospell of Christ, none is to seperate for falts and corruptions which may and so long as the Church consisteth of mortall men, will fall out &amp; arise emong them, even in a true constituted Church, but by due<note n="f" place="margin">2. <hi>Cor.</hi> 13.1.2. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 2. <hi>and</hi> 3.1. <hi>Thes.</hi> 5.24.2. <hi>Thes.</hi> 3 / 6.14. <hi>Mat.</hi> 18 / 17. 1. <hi>Cor</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 4.5. <hi>Act.</hi> 15.1.2.</note> order to seeke re<g ref="char:EOLhyphen"/>dresse therof.</p>
+            <p n="37">37 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>37</label> That<note n="g" place="margin">1. <hi>cor.</hi> 14 / 24.25. <hi>Psal.</hi> 18.49. <hi>rom.</hi> 15.9.10. 1. <hi>Tim.</hi> 2 / 4. 2. <hi>Tim.</hi> 2 / 25.</note> such as yet see not the truth, may heare the publik doctrine and prayers of the church, and with al meeknes are to bee sought by all meanes: Yet<note n="h" place="margin">2. <hi>Cor.</hi> 6 / 14.15.16. <hi>Ey<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 4 / 3. <hi>Exod.</hi> 12 / 43. <hi>Lev.</hi> 21.25. <hi>Exod</hi> / 34.</note> none who are growne in yeeres to bee received into their communion as members, but such as doo make confession of their faith, publickly desiring to bee receiued as members, and promi<g ref="char:EOLhyphen"/>sing to walke in the obedience of Christ. Neither anie <seg rend="sup">i</seg> Infants, but such as are the seed of the faithfull by one of the parents, or vnder their education and gouernment. And further not anie<note n="k" place="margin">2. <hi>Deu.</hi> 7 / <hi>Ese.</hi> 44.5. <hi>Ect.</hi> 19 / 18.</note> from one Congregation to bee receiued members in another, without bringing certificate of their former estate and present purpose.</p>
+            <p n="38">38 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>38</label> That though Congregations bee thus distinct and severall bo<g ref="char:EOLhyphen"/>dyes, every one as a compact Citie in it self, yet are they all to walke by one and the same rule, &amp; by all meanes convenient to haue the coun<g ref="char:EOLhyphen"/>sell and help one of another in all needfull affayres of the Church, as members of one body in the common Faith, vnder Christ their head.<note place="margin">
+                  <hi>Lo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ticles</hi> 1.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.35. <hi>W<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>al.</hi> 122 3. <hi>Cant.</hi> 8.8.9. 1. <hi>cor.</hi> 4 / 17. <hi>and</hi> 16.1.</note>
+            </p>
+            <p n="39">39 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>39</label> That it is the Office and duty of Princes and Magestrates,<note n="l" place="margin">
+                  <hi>Exod.</hi> 20 / 5.6.</note> who by the ordinance of God are supreme Governers vnder him over all persons and causes within their Realmes and Dominions,<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Rom.</hi> 13 / 3.4. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Pet.</hi> 2.3 / 14. 2. <hi>Chro.</hi> 19 / 4. <hi>etc. and.</hi> 29. <hi>and</hi> 34. <hi>Chap. Iudg.</hi> 17 / 5 <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Math.</hi> 22.21. <hi>Tit.</hi> 3 / <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 2. <hi>King.</hi> 23.5 / <hi>etc Psal.</hi> 110. <hi>Deu.</hi> 12 / 2.3, <hi>with.</hi> 17.14.18 19.20. 2 <hi>King.</hi> 10.25.27.28. 2. <hi>Chro. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> / 16. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ro.</hi> 16 / 12. <hi>and</hi> 25.2.3.4.5. <hi>Act.</hi> 19 / 27. <hi>Reb.</hi> 27.16.</note> to<note place="margin">m. <hi>Cor.</hi> 7 / 14. <hi>Gen.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 7 / 7.12.27. <hi>Exod.</hi> 22 / 43.49. <hi>Act.</hi> 16 / <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Act.</hi> 9 / 26.27. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>om.</hi> 16 / 1.2.2. <hi>Cor</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> / 13. <hi>Col.</hi> 4 / 10.</note> sup<g ref="char:EOLhyphen"/>press and root out by their authoritie all false ministeries, voluntarie Relligions and counterfeyt worship of God, to abolish and destroy the Idoll Temples, Images, Altares, Vestments, and all other monu<g ref="char:EOLhyphen"/>ments of Idolatrie and superstition and to take and convert to their own civile vses not only the benefit of all such idolitrous buyldings &amp; monuments, but also the Revenues, Demeanes, Lordships, Posses<g ref="char:EOLhyphen"/>sions, Gleabes and maintenance of anie false, ministeries and vnlaw<g ref="char:EOLhyphen"/>full Ecclesiasticall functions whatsoever within their Dominions.
+<pb facs="tcp:22071:11"/>And on the other hand<note n="n" place="margin">
+                  <hi>Deut.</hi> 17.14 / 18.19.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Ios<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 1 / 7.8. 2 <hi>Chro.</hi> 17 / 4.7.8.9. <hi>&amp;</hi> 19.4. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> 29. <hi>&amp;</hi> 30. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an.</hi> 6 / 25.26. <hi>Psal.</hi> 2 / 10.11.12. <hi>&amp;</hi> 72.1. <hi>etc. Esa.</hi> 49 / 23. <hi>Rev.</hi> 21.24. <hi>Ez<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a.</hi> 7.26.</note> to establish &amp; mayntein by their lawes eve<g ref="char:EOLhyphen"/>ry part of Gods word his pure Relligion and true ministerie to che<g ref="char:EOLhyphen"/>rish and protect all such as are carefull to worship God according to his word, and to leade a godly lyfe in all peace and loyalltie; yea to en<g ref="char:EOLhyphen"/>force al their Subiects whether Ecclesiasticall or civile, to do their du<g ref="char:EOLhyphen"/>tyes to God and men, protecting &amp; mainteyning the good, punishing and restreyning the evill according as God hath commanded, vvhose Lieuetenants they are heer on earth.</p>
+            <p n="40">40 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>40</label> That therfore the<note n="o" place="margin">
+                  <hi>Pro.</hi> 16 / 15. <hi>Ez<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 5. <hi>and</hi> 6. <hi>Act.</hi> 9 / 31. 1. <hi>Tim.</hi> 2 / 2. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 6 25.26. <hi>Rev.</hi> 21 / 24.</note> protection &amp; commandement of the Prin<g ref="char:EOLhyphen"/>ces and Magistrats maketh it much more peaceable, though<note n="p" place="margin">
+                  <hi>Act.</hi> 4 / 18.19. <hi>and</hi> 5.2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.29. <hi>Dan.</hi> 6 / 7.8 9.10.22. <hi>Luk.</hi> 21 / 12.13. <hi>Mat.</hi> 28 / 20. 1. <hi>tim.</hi> 5 / 21. <hi>and</hi> 6.13.14.</note> no whit at all more lavvfull, to vvalke in the vvayes and ordinances of Iesus Christ vvhich hee hath commanded his church to keep vvithout spot and vnrebukeable vntill his appeering in the end of the vvorld.<note n="q" place="margin">
+                  <hi>Psal.</hi> 72 / <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>etc.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>tun.</hi> 2 / 2. 2. <hi>chro.</hi> 25 / 1.2. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay.</hi> 1.4.14. <hi>and</hi> 2.5.</note> And that in this behalf the brethren thus mynded and proceeding as is be<g ref="char:EOLhyphen"/>foresaid, doo both contynually supplicate to God, and as they may, to their Princes and Gouernours that thus and vnder them they may leade a quiet and peaceable lyfe in all godlynes and honestie.</p>
+            <p n="41">41. <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>41</label> That if God encline the Magistrates hearts to the allovvance &amp; protection of them therin they acccmpt it a happie blessing of God who granteth such nourcing Fathers and nourcing Mothers to his Church,<note place="margin">
+                  <hi>Psal.</hi> 126 / 1. <hi>etc. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 49 / 23. <hi>and</hi> 60 16. <hi>Psal.</hi> 72 / 1. <hi>etc. <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>om.</hi> 13 / 3. 1. <hi>Tim.</hi> 2 / 2.3.4.</note> &amp; be carefull to walke vvorthie so great a mercy of God in all thankfulnes and obedience.</p>
+            <p n="42">42 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>42</label> That if God vvithold the Magistrates allovvance and furtherāce heerin, they<note n="r" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct.</hi> 2 / 40.41.42. <hi>and</hi> 4.19. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 5.28.29.41. <hi>and</hi> 16.20 <hi>etc. and</hi> 17.6.7. <hi>and</hi> 20.23.24. 1. <hi>Thes.</hi> 3.3. <hi>Ph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi> 1.27.28.29. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>an.</hi> 3 / 16.17.18. <hi>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d</hi> 6.7.10.22.23.24. <hi>Luk.</hi> 14 / 26.27. <hi>&amp;</hi> 21.12.13 / 14. 2. <hi>tim.</hi> 2 / 12. <hi>and</hi> 3 / 12. <hi>heb</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 / 32. <hi>etc.</hi> 1. <hi>Pet.</hi> 4. <hi>Rev.</hi> 2 / 10.25.26. <hi>and.</hi> 6.9. <hi>and</hi> 12.11.</note> yet proceed together in christian couenant &amp; commu<g ref="char:EOLhyphen"/>nion thus to vvalke in the obedience of Christ evē through the mid<g ref="char:EOLhyphen"/>dest of all tryalls and aflictions, not accompting their goods, Lands VVyves, Children, Fathers, Mothers, brethren, Sisters, no nor their ovvn lyues dear vnto thē, so as they may finish their course with ioy, remembring alvvayes that wee<note place="margin">s <hi>Act.</hi> 5 / 29. <hi>and</hi> 17.6.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> ought to obey God rather thē mā, &amp; grounding<note n="t" place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at.</hi> 28.18.19.20. 1. <hi>Tim.</hi> 6 / 13.14.15.16. 2. <hi>Tim.</hi> 4 / 7.8. <hi>Rev.</hi> 2 / 10. <hi>and</hi> 14.12.13. <hi>and</hi> 22.16.17.18.19.20</note> vpon the commandement, commission and promise of our Saviour Christ, vvho as hee hath all povvre in heauē &amp; in earth, so hath also promised if they keep his commandements vvhich hee hath giuē without limitatiō of tyme, place, Magistrates allovvance or disallowance, to bee with them vnto the end of the world and vvhen they haue finished their course and kept the faith, to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iue them the crovvn of righteousnes vvhich is layd vp for all them that loue his appeering.</p>
+            <p n="43">43 <label type="milestone">
+                  <seg type="milestoneunit">Art. </seg>43</label> That they doo also vvillingly and orderly pay and performe all maner of lavvfull and accustomed dutyes vnto all men,<note place="margin">
+                  <hi>Rom.</hi> 13 / 1.5.6.7. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at</hi> 21.21 2. <hi>chro</hi> 27 / <hi>Ezt</hi> 7.26. <hi>Tit.</hi> 2 / 1. 1. <hi>Pet.</hi> 2 / 13 <hi>etc.</hi>
+               </note> submitting
+<pb facs="tcp:22071:12"/>in the Lord themselues, their bodyes, Landes, Goods and lyves to the Magistrates pleasure. And that euery vvay they acknovvledge, reverence and obey them according to godlynes, not because of vvrath only but also for conscience sake.</p>
+            <p n="44">44 And thus doo vvee the Subiects of God and hir Ma<seg rend="sup">tie.</seg> falsely called Brovvnists labour to giue vnto God that vvhich is Gods, &amp; vnto Caesar that vvhich is Caesars, endevoring our selues to haue al<g ref="char:EOLhyphen"/>vvayes a cleere conscience tovvards God and tovvards men: And if anie take this to be heresie, then doo vvee vvith the<note place="margin">
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Act.</hi> 24 / 14.</note> Apostle freely confesse that after the vvay vvhich they call heresie vve vvorship God the Father of our Lord Iesus Christ; beleeving all things that are vvritten in the Lavv, and in the Prophets &amp; Apostostles: And vvhatsoeuer is according to this vvord of truth published by this State or holden by anie reformed churches abrode in the vvorld.</p>
+            <p n="45">45 Finally,<note place="margin">
+                  <hi>Mat.</hi> 6 / 9. <hi>etc. <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nn.</hi> 11 / 2. <hi>etc. comp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>red with Mat.</hi> 14 / 30. <hi>and</hi> 26.39.41. <hi>Act.</hi> 1.24.25. <hi>and</hi> 4.24. <hi>etc. <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 8 / 26.27. <hi>Rev.</hi> 8 / 3 / 4. <hi>Eph.</hi> 6.18 / 19. <hi>Phr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 4 / 6. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>b.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> / 18.19.20.21. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> vers.</hi> 24 / 25.</note> vvheras vvee are much slandered, as if vve denyed o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> misliked that forme of prayer commonly called the Lords Prayes vvee thought it needfull heere also concerning it to make knovvn that vvee beleeue and acknovvledg it to bee a most absolute &amp; most excellent forme of prayer such as no men or Angells can set downe the like And that it was taught &amp; appointed by our Lord Iesus Christ, not that vvee should bee tyed to the vse of those very words, but that vvee should according to that rule make all our requests &amp; thanksgyuing vnto God, forasmuch as it is a perfect forme and pat<g ref="char:EOLhyphen"/>terne conteyning in it playne &amp; sufficient directions of prayer for all occasions and necessities that haue been, are, or shalbee to the church of God, or anie member therof to the end of the world.</p>
+            <p>
+               <hi>Now vnto him that is able to keep vs that wee fall not, &amp; to present vs faltlesse before the presence of his glorie with joy; that is to God only wise our Sauiour, bee glory, &amp; Maje<g ref="char:EOLhyphen"/>stie &amp; dominion, &amp; powre both now &amp; for ever. Amen.</hi>
+            </p>
+            <pb facs="tcp:22071:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
